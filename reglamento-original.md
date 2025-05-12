@@ -9,12 +9,13 @@
 5. MECANISMOS PARA FOMENTAR Y EDUCAR A LOS NUEVOS JUGADORES DEL CLUB  
 6. NORMAS DE LOS JUGADORES  
 7. NORMAS PARA CAPITANES  
-8. NORMAS PARA ENTRENADORES Y MANAGERS  
-9. NORMAS PARA DIRIGENTES  
-10. NORMAS PARA EX-JUGADORES  
-11. FALTAS Y SANCIONES  
-12. EVALUACIÓN DE SANCIONES  
-13. PROCESO DE APELACIÓN POR SANCIÓN
+8. NORMAS PARA ENTRENADORES
+9. NORMAS PARA MANAGERS  
+10. NORMAS PARA DIRIGENTES  
+11. NORMAS PARA EX-JUGADORES  
+12. FALTAS Y SANCIONES  
+13. EVALUACIÓN DE SANCIONES  
+14. PROCESO DE APELACIÓN POR SANCIÓN
 
 ---
 
@@ -82,15 +83,39 @@ El capitán debe ser un líder dentro y fuera de la cancha, promoviendo el respe
 
 ---
 
-### **NORMAS PARA ENTRENADORES Y MANAGERS**
+### **NORMAS PARA ENTRENADORES**
 
-Los entrenadores y managers deberán:
+Los entrenadores deberán:
 
-* Asistir puntualmente a entrenamientos y partidos.  
-* Velar por la seguridad de los jugadores.  
-* Fomentar el respeto, la autodisciplina y el trabajo en equipo.  
-* Estar informados de las lesiones y problemas personales de los jugadores.  
-* Promover un tercer tiempo de calidad y cooperar con los dirigentes.
+* Asistir puntualmente a entrenamientos y partidos.
+* Planificar sesiones de entrenamiento estructuradas y acordes al nivel del equipo.
+* Velar por la seguridad física de los jugadores durante entrenamientos y partidos.
+* Fomentar el respeto, la autodisciplina y el trabajo en equipo.
+* Conocer y aplicar las reglas actualizadas del rugby.
+* Promover el desarrollo técnico y táctico de todos los jugadores.
+* Mantener una comunicación clara y efectiva con los jugadores.
+* Evaluar objetivamente el desempeño de los jugadores para la formación de equipos.
+* Coordinar con los managers los aspectos logísticos relacionados con partidos y entrenamientos.
+* Participar en actividades de capacitación para mantenerse actualizados.
+* Representar al club con profesionalismo en todas las competencias.
+
+---
+
+### **NORMAS PARA MANAGERS**
+
+Los managers deberán:
+
+* Gestionar los aspectos administrativos y logísticos del equipo.
+* Coordinar el transporte, hospedaje y alimentación durante viajes del equipo.
+* Mantener actualizada la documentación necesaria de los jugadores (fichas médicas, seguros, etc.).
+* Asegurar la disponibilidad del equipamiento necesario para entrenamientos y partidos.
+* Ser el enlace entre los jugadores, entrenadores y la directiva del club.
+* Estar informados de las lesiones y problemas personales de los jugadores que puedan afectar su desempeño.
+* Promover un tercer tiempo de calidad, coordinando los aspectos sociales post-partido.
+* Gestionar la comunicación con otros clubes para la organización de partidos amistosos.
+* Velar por el cumplimiento de los compromisos financieros de los jugadores con el club.
+* Cooperar con los dirigentes en la planificación de actividades especiales.
+* Mantener un inventario actualizado de los materiales deportivos del club.
 
 ---
 
