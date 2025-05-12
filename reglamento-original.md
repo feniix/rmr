@@ -34,8 +34,8 @@ Para garantizar una correcta interpretación de este reglamento, se establecen l
 * **Miembro:** Toda persona que forme parte del club en cualquier calidad (jugador, entrenador, dirigente, etc.) y esté formalmente registrada como tal. Este término se utilizará de manera general a lo largo del reglamento.
 
 * **Sanciones disciplinarias:**
-  * **Advertencia:** Llamado de atención formal que queda registrado pero no implica restricción de actividades.
-  * **Suspensión:** Prohibición temporal de participar en actividades específicas del club (entrenamientos o partidos puntuales) manteniendo la participación en otras actividades.
+  * **Advertencia:** Llamado de atención formal que queda registrado, pero no implica restricción de actividades.
+  * **Suspensión:** Prohibición temporal de participar en actividades específicas del club (entrenamientos o partidos puntuales), manteniendo la participación en otras actividades.
   * **Desafectación:** Separación temporal de todas las actividades del club por un período determinado.
   * **Expulsión:** Separación definitiva o por un período prolongado (más de un año) del club, con pérdida de la condición de miembro.
 
@@ -52,7 +52,7 @@ Esta terminología se aplicará consistentemente a lo largo de todo el reglament
 
 ## 1. Misión
 
-Ser un club de rugby que transmita los valores del deporte para formar un ambiente de aprendizaje inclusivo. Ser un club donde poder ser libres mediante el rugby y se procure la superación tanto en lo personal como en lo deportivo.
+Ser un club de rugby que transmita los valores del deporte para formar un ambiente de aprendizaje inclusivo. Ser un club donde se pueda ser libre mediante el rugby y se procure la superación tanto en lo personal como en lo deportivo.
 
 ## 2. Visión
 
@@ -70,7 +70,7 @@ Formar jugadores con el rugby como herramienta forjadora, para construir entre t
 Los miembros del club, sin importar su rol, deberán:
 
 * Respetar las normas de convivencia y la imagen institucional de Ruda Macho Rugby y los lugares a visitar.  
-* Respetar a todos los miembros del club, incluidos jugadores, entrenadores, managers, y árbitros.  
+* Respetar a todos los miembros del club, incluidos jugadores, entrenadores, managers y árbitros.  
 * Conservar el orden y limpieza en las instalaciones del club.  
 * Cumplir con los horarios establecidos para actividades del club.  
 * No consumir alcohol ni fumar dentro del espacio de entrenamiento ni en los predios de clubes a visitar (excepto en el tercer tiempo).  
@@ -86,11 +86,11 @@ Los miembros del club, sin importar su rol, deberán:
 
 Se proveerá un instructivo para los nuevos jugadores, entregado por sus padrinos, que cubrirá:
 
-  * Qué es Ruda Macho Rugby.  
-  * Sistema de planillas de entrenamientos.  
-  * Valores que pregona el club.  
-  * Equipamiento adecuado para entrenar.  
-  * Chequeos médicos preventivos.
+* Qué es Ruda Macho Rugby.  
+* Sistema de planillas de entrenamientos.  
+* Valores que pregona el club.  
+* Equipamiento adecuado para entrenar.  
+* Chequeos médicos preventivos.
 
 ## 6. Normas de los Jugadores
 
@@ -105,7 +105,21 @@ Los jugadores deberán cumplir con:
 
 ## 7. Normas para Capitanes
 
-El capitán debe ser un líder dentro y fuera de la cancha, promoviendo el respeto y la resolución positiva de conflictos. Debe incentivar la responsabilidad y el alto rendimiento de los jugadores y velar por la limpieza de las instalaciones.
+Los capitanes deberán:
+
+* Ser un líder positivo dentro y fuera de la cancha, promoviendo el respeto y la resolución constructiva de conflictos.
+* Representar al equipo ante el árbitro durante los partidos, comunicando de manera respetuosa.
+* Conocer en profundidad el reglamento del juego y ayudar a sus compañeros a comprenderlo.
+* Motivar e incentivar la responsabilidad y el alto rendimiento de todos los jugadores del equipo.
+* Velar por la limpieza y el cuidado de las instalaciones, sirviendo de ejemplo para el resto.
+* Mantener comunicación constante con el cuerpo técnico sobre las necesidades y preocupaciones del equipo.
+* Ayudar en la integración de nuevos jugadores al equipo, facilitando su adaptación.
+* Ser imparcial en la resolución de conflictos internos entre compañeros.
+* Asistir a las reuniones de capitanes y otras actividades designadas por el club.
+* Contribuir en la disciplina del equipo, asegurando que se respeten las normas internas del club.
+* Transmitir la cultura y valores del club a los nuevos integrantes.
+* Colaborar con los entrenadores en la identificación de áreas de mejora técnica y táctica.
+* Mantener una conducta ejemplar dentro y fuera del club, siendo referente para los demás jugadores.
 
 ## 8. Normas para Entrenadores
 
@@ -181,7 +195,7 @@ Cada ex-jugador tiene la responsabilidad de cuidar la imagen del club en cualqui
 * Servir como embajadores del club, promoviendo sus valores en diferentes espacios.
 * Respetar las decisiones tomadas por la dirigencia actual, evitando críticas destructivas.
 * Mantener una conducta ejemplar en eventos donde representen al club.
-* Participar cuando sea posible en actividades de integración organizadas por el club.
+* Participar, cuando sea posible, en actividades de integración organizadas por el club.
 
 ## 13. Faltas y Sanciones
 
@@ -714,7 +728,7 @@ Cuando un miembro de la Comisión Directiva o cualquier persona que ejerza un ca
 
 1. **Tribunal de Apelación Modificado:**
    * Cuando el apelante sea un dirigente, el Tribunal de Apelación excluirá a cualquier miembro de la Comisión Directiva con relación directa o dependencia jerárquica con el apelante.
-   * Para garantizar la imparcialidad, se incorporarán al Tribunal de Apelación dos miembros senior del club (con más de 3 años de antigüedad) que no ocupen cargos dirigenciales, seleccionados por sorteo de una lista predefinida.
+   * Para garantizar la imparcialidad, se incorporarán al Tribunal de Apelación dos miembros sénior del club (con más de 3 años de antigüedad) que no ocupen cargos dirigenciales, seleccionados por sorteo de una lista predefinida.
 
 2. **Plazos y Procedimientos:**
    * Los plazos y procedimientos generales de apelación se mantienen igual que para cualquier otro miembro.
