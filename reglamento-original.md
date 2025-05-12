@@ -20,6 +20,8 @@
 14. [Evaluación de Sanciones](#14-evaluación-de-sanciones)
 15. [Proceso de Apelación por Sanción](#15-proceso-de-apelación-por-sanción)
 16. [Órganos Disciplinarios](#16-órganos-disciplinarios)
+17. [Protocolos de Comunicación Oficial](#17-protocolos-de-comunicación-oficial)
+18. [Procedimientos Especiales para Infracciones Cometidas por Dirigentes](#18-procedimientos-especiales-para-infracciones-cometidas-por-dirigentes)
 
 ---
 
@@ -42,11 +44,11 @@ Formar jugadores con el rugby como herramienta forjadora, para construir entre t
 
 Los miembros del club, sin importar su rol, deberán:
 
-* Respetar las normas de convivencia y la imagen institucional de Ruda Macho Rugby y los lugares a visitar.
-* Respetar a todos los miembros del club, incluidos jugadores, entrenadores, managers, y árbitros.
-* Conservar el orden y limpieza en las instalaciones del club.
-* Cumplir con los horarios establecidos para actividades del club.
-* No consumir alcohol ni fumar dentro del espacio de entrenamiento ni en los predios de clubes a visitar (excepto en el tercer tiempo).
+* Respetar las normas de convivencia y la imagen institucional de Ruda Macho Rugby y los lugares a visitar.  
+* Respetar a todos los miembros del club, incluidos jugadores, entrenadores, managers, y árbitros.  
+* Conservar el orden y limpieza en las instalaciones del club.  
+* Cumplir con los horarios establecidos para actividades del club.  
+* No consumir alcohol ni fumar dentro del espacio de entrenamiento ni en los predios de clubes a visitar (excepto en el tercer tiempo).  
 * Respetar siempre los fallos de los árbitros y las decisiones de entrenadores y managers.
 
 ### Diferenciación entre Actividades del Club y Actividades del Equipo
@@ -59,21 +61,21 @@ Los miembros del club, sin importar su rol, deberán:
 
 Se proveerá un instructivo para los nuevos jugadores, entregado por sus padrinos, que cubrirá:
 
-* Qué es Ruda Macho Rugby.
-* Sistema de planillas de entrenamientos.
-* Valores que pregona el club.
-* Equipamiento adecuado para entrenar.
-* Chequeos médicos preventivos.
+  * Qué es Ruda Macho Rugby.  
+  * Sistema de planillas de entrenamientos.  
+  * Valores que pregona el club.  
+  * Equipamiento adecuado para entrenar.  
+  * Chequeos médicos preventivos.
 
 ## 6. Normas de los Jugadores
 
 Los jugadores deberán cumplir con:
 
-* Mantener la cuota y otros gastos del club al día.
-* Ser un buen ejemplo dentro y fuera de la cancha, representando siempre al club.
-* Asistir a los entrenamientos puntualmente.
-* Respetar las decisiones de los entrenadores y árbitros.
-* Evitar el consumo de sustancias ilegales y cualquier tipo de droga dentro del ámbito deportivo.
+* Mantener la cuota y otros gastos del club al día.  
+* Ser un buen ejemplo dentro y fuera de la cancha, representando siempre al club.  
+* Asistir a los entrenamientos puntualmente.  
+* Respetar las decisiones de los entrenadores y árbitros.  
+* Evitar el consumo de sustancias ilegales y cualquier tipo de droga dentro del ámbito deportivo.  
 * Cooperar con entrenadores y dirigentes para alcanzar los objetivos del club.
 
 ## 7. Normas para Capitanes
@@ -84,10 +86,10 @@ El capitán debe ser un líder dentro y fuera de la cancha, promoviendo el respe
 
 Los entrenadores deberán:
 
-* Asistir puntualmente a entrenamientos y partidos.
+* Asistir puntualmente a entrenamientos y partidos.  
 * Planificar sesiones de entrenamiento estructuradas y acordes al nivel del equipo.
 * Velar por la seguridad física de los jugadores durante entrenamientos y partidos.
-* Fomentar el respeto, la autodisciplina y el trabajo en equipo.
+* Fomentar el respeto, la autodisciplina y el trabajo en equipo.  
 * Conocer y aplicar las reglas actualizadas del rugby.
 * Promover el desarrollo técnico y táctico de todos los jugadores.
 * Mantener una comunicación clara y efectiva con los jugadores.
@@ -304,18 +306,20 @@ Se considera reincidencia la comisión de una nueva infracción de la misma cate
 
 ## 14. Evaluación de Sanciones
 
-Cada caso será revisado por el Comité de Disciplina del club. El Comité evaluará la gravedad de la falta y determinará la sanción correspondiente, teniendo en cuenta el historial del jugador y el contexto de la infracción.
+Cada caso será revisado por el Comité de Disciplina del club. El Comité evaluará la gravedad de la falta y determinará la sanción correspondiente, teniendo en cuenta el historial del miembro y el contexto de la infracción.
 
 ### Composición del Comité de Disciplina
-* El Comité de Disciplina está formado por tres (3) miembros del club elegidos democráticamente, tal como se establece en la sección de Órganos Disciplinarios.
+* El Comité de Disciplina está formado por tres (3) miembros titulares y dos (2) miembros suplentes del club, elegidos democráticamente, tal como se establece en la sección de Órganos Disciplinarios.
 * Por razones de independencia e imparcialidad, no podrán formar parte del Comité: capitanes, subcapitanes, managers, entrenadores ni dirigentes del club.
 
 ### Funcionamiento del Comité
 * Se reunirá periódicamente y también cuando sea necesario atender casos específicos.
-* Las decisiones se tomarán por mayoría, siendo necesario un mínimo de tres miembros presentes.
+* Las decisiones se tomarán por mayoría simple de los miembros presentes.
+* Para sesionar válidamente, deberán estar presentes al menos dos (2) miembros titulares. En caso de ausencia de un titular, será reemplazado por un suplente.
 * Llevará un registro de todas las sanciones impuestas y su cumplimiento.
 * Evaluará anualmente la efectividad del sistema disciplinario y propondrá mejoras cuando corresponda.
 * Deberá mantener imparcialidad y confidencialidad en todos los casos analizados.
+* En caso de empate en la votación, el miembro con mayor antigüedad en el Comité tendrá voto dirimente.
 
 ## 15. Proceso de Apelación por Sanción
 
@@ -323,7 +327,7 @@ Cada caso será revisado por el Comité de Disciplina del club. El Comité evalu
 
 ### Procedimiento
 
-1. **Plazo para Apelar:** El miembro sancionado tiene 5 días hábiles desde la notificación oficial de la sanción para presentar la apelación. Fuera de este plazo, no se aceptarán apelaciones, salvo circunstancias excepcionales debidamente documentadas (hospitalización, viaje inevitable, etc.).
+1. **Plazo para Apelar:** El miembro sancionado tiene diez (10) días hábiles desde la notificación oficial de la sanción para presentar la apelación. Fuera de este plazo, no se aceptarán apelaciones, salvo circunstancias excepcionales debidamente documentadas (hospitalización, viaje inevitable, etc.).
 
 2. **Notificación de la Sanción:** La sanción será comunicada por escrito al afectado en un plazo máximo de 3 días hábiles tras la decisión, especificando:
    * La falta cometida, con referencia específica a la norma infringida.
@@ -368,9 +372,13 @@ El club cuenta con un sistema disciplinario estructurado que separa las funcione
 Es el órgano responsable de investigar las posibles infracciones a las normas del club, recolectar pruebas y dictar las sanciones correspondientes. Ejerce el rol de poder judicial dentro del club.
 
 #### Composición
-* El Comité de Disciplina está formado por tres (3) miembros del club.
-* Estos miembros serán elegidos democráticamente por los socios del club.
+* El Comité de Disciplina está formado por tres (3) miembros titulares y dos (2) miembros suplentes.
+* Estos miembros serán elegidos democráticamente por los miembros del club mediante el sistema de Voto Único Transferible.
 * Por razones de independencia e imparcialidad, no podrán formar parte del Comité de Disciplina: capitanes, subcapitanes, managers, entrenadores ni dirigentes del club.
+* Los miembros suplentes participarán en las sesiones cuando:
+  * Un miembro titular deba abstenerse por conflicto de interés
+  * Un miembro titular no pueda asistir por enfermedad u otra causa justificada
+  * Se requiera reemplazar a un miembro que haya renunciado, hasta la próxima elección regular
 
 #### Elección y Mandato
 * La elección se realizará anualmente durante la Asamblea General Ordinaria.
@@ -378,6 +386,7 @@ Es el órgano responsable de investigar las posibles infracciones a las normas d
 * El período de mandato será de un año, pudiendo ser reelegidos.
 * Para garantizar la imparcialidad, ningún miembro del Comité de Disciplina podrá formar parte simultáneamente de la Comisión Directiva ni ocupar puestos de liderazgo deportivo.
 * Quienes ocupen cargos incompatibles deberán esperar al menos seis meses después de cesar en sus funciones para poder postularse como miembros del Comité.
+* En caso de renuncia o incapacidad permanente de un miembro titular, asumirá el cargo el suplente con mayor cantidad de votos en la última elección, hasta completar el mandato.
 
 #### Sistema de Elección: Voto Único Transferible (VUT)
 
@@ -479,7 +488,7 @@ Es el órgano encargado de revisar las apelaciones contra las decisiones discipl
 * Comunicar la decisión al apelante y al Comité de Disciplina.
 
 #### Procedimiento
-* Las apelaciones deben presentarse por escrito en el plazo establecido en la sección de "Proceso de Apelación por Sanción".
+* Las apelaciones deben presentarse por escrito en el plazo de diez (10) días hábiles establecido en la sección 15 de este reglamento ("Proceso de Apelación por Sanción").
 * El Tribunal convocará al miembro informante del Comité de Disciplina para conocer los detalles del caso.
 * Se podrá citar al apelante para que presente personalmente sus argumentos si el Tribunal lo considera necesario.
 * La deliberación final se realizará únicamente con los miembros de la Comisión Directiva.
@@ -494,6 +503,120 @@ Es el órgano encargado de revisar las apelaciones contra las decisiones discipl
 * Ninguna sanción podrá contravenir la legislación vigente o los derechos fundamentales de las personas.
 
 Esta clara separación de poderes garantiza un sistema disciplinario justo y transparente, que respeta los derechos de todos los miembros mientras promueve el cumplimiento de las normas del club.
+
+## 17. Protocolos de Comunicación Oficial
+
+Para garantizar la transparencia, eficacia y el debido respeto en todas las comunicaciones relacionadas con el club, se establecen los siguientes protocolos de comunicación oficial:
+
+### 17.1 Canales Oficiales de Comunicación
+
+El club reconoce únicamente dos canales oficiales para las comunicaciones formales:
+
+1. **Ronda grupal post-entrenamiento:**
+   * Al finalizar los entrenamientos, se realizará una ronda informativa donde se comunicarán:
+     * Anuncios importantes sobre próximas actividades
+     * Decisiones recientes que afecten al equipo
+     * Recordatorios sobre compromisos pendientes
+     * Breves comentarios técnicos del entrenamiento realizado
+   * Las comunicaciones realizadas en esta instancia se consideran oficiales y de conocimiento grupal.
+   * Se designará un responsable de tomar nota de los temas tratados para quienes no hayan podido asistir.
+
+2. **Grupo oficial de comunicaciones del club:**
+   * El club mantendrá un grupo de comunicación digital (WhatsApp, Telegram u otra plataforma similar) que será considerado el canal oficial para comunicaciones escritas.
+   * Este grupo estará gestionado por administradores designados por la Comisión Directiva.
+   * Toda información publicada en este grupo se considera oficial.
+   * Los mensajes en este grupo deben ser claros, concisos y relacionados con actividades del club.
+
+### 17.2 Grado de Intervención en las Comunicaciones
+
+Para mantener un ambiente saludable y respetuoso en las comunicaciones oficiales:
+
+1. **Moderación:**
+   * Los administradores de grupos digitales y los moderadores de las rondas grupales podrán intervenir para:
+     * Redirigir conversaciones que se desvíen del tema principal
+     * Detener intercambios que violen los valores del club
+     * Solicitar aclaraciones cuando un mensaje genere confusión
+   * La moderación debe realizarse de forma respetuosa y constructiva.
+
+2. **Comunicaciones disciplinarias:**
+   * Las notificaciones sobre asuntos disciplinarios se realizarán siempre:
+     * De manera privada con la persona involucrada
+     * Por escrito, guardando registro de la comunicación
+     * Siguiendo estrictamente los plazos establecidos en este reglamento
+   * Nunca se expondrán públicamente situaciones disciplinarias específicas en los canales oficiales.
+
+3. **Responsabilidad en las comunicaciones:**
+   * Todo miembro del club debe asumir responsabilidad por sus comunicaciones en los canales oficiales.
+   * Se considera una falta leve el uso inapropiado de los canales oficiales para temas no relacionados con el club.
+   * Se considera una falta grave la difusión de información falsa o malintencionada a través de los canales oficiales.
+
+### 17.3 Ausencias y Notificaciones
+
+* Toda ausencia a entrenamientos, partidos o actividades del club debe ser notificada:
+  * Con la mayor anticipación posible
+  * A través de uno de los canales oficiales o directamente al responsable del equipo
+  * Indicando motivo y duración de la ausencia, cuando sea posible
+* Las ausencias no notificadas serán registradas y podrán ser consideradas al evaluar la participación del miembro en las actividades del club.
+
+Este protocolo busca unificar las comunicaciones del club, evitando malentendidos y asegurando que todos los miembros tengan acceso a la información oficial por canales claramente definidos.
+
+## 18. Procedimientos Especiales para Infracciones Cometidas por Dirigentes
+
+Cuando un miembro de la Comisión Directiva o cualquier persona que ejerza un cargo dirigencial sea sujeto de una denuncia o investigación disciplinaria, se aplicarán las siguientes disposiciones especiales para garantizar la imparcialidad del proceso:
+
+### 18.1 Principios Fundamentales
+
+* **Igualdad ante el reglamento:** Los dirigentes están sujetos a las mismas normas, categorización de infracciones y potenciales sanciones que cualquier otro miembro del club.
+* **Imparcialidad reforzada:** Se implementan salvaguardas adicionales para evitar que la posición jerárquica del dirigente pueda influir en el proceso disciplinario.
+* **Transparencia:** Sin comprometer la confidencialidad individual, se garantizará especial transparencia en el proceso cuando involucre a dirigentes.
+
+### 18.2 Procedimiento de Denuncia e Investigación
+
+1. **Presentación de Denuncias:**
+   * Las denuncias contra dirigentes seguirán el mismo canal que las demás denuncias: deben presentarse por escrito al Comité de Disciplina.
+   * Cualquier miembro del Comité que reciba una denuncia contra un dirigente deberá informar inmediatamente a los demás miembros titulares y suplentes.
+
+2. **Conformación Especial del Comité:**
+   * Cuando se investigue a un dirigente, el Comité de Disciplina actuará con sus tres (3) miembros titulares y los dos (2) suplentes participarán con voz pero sin voto, como veedores adicionales del proceso.
+   * Si algún miembro titular tiene relación personal o de dependencia directa con el dirigente investigado, deberá abstenerse y será reemplazado por un suplente.
+
+3. **Notificación Especial:**
+   * El dirigente investigado será notificado formalmente por escrito de la investigación.
+   * Durante el proceso, el dirigente investigado deberá abstenerse de participar en cualquier decisión relacionada con el Comité de Disciplina o sus miembros.
+
+### 18.3 Revisión y Aplicación de Sanciones
+
+1. **Revisión por la Comisión Directiva:**
+   * El dirigente sujeto a investigación será excluido de cualquier deliberación o votación relacionada con su propio caso.
+   * Para casos que involucren a dirigentes, el quórum necesario de la Comisión Directiva para revisar la sanción propuesta se reducirá en uno (contando la ausencia del investigado).
+   * Si el investigado es el Presidente de la Comisión Directiva, será sustituido temporalmente por el Vicepresidente para estos efectos.
+
+2. **Sanciones Adicionales para Dirigentes:**
+   * Además de las sanciones regulares, cuando un dirigente cometa una infracción grave o muy grave, el Comité de Disciplina evaluará y podrá recomendar la suspensión temporal o permanente del cargo dirigencial.
+   * Para infracciones muy graves, el Comité podrá recomendar la convocatoria de una Asamblea Extraordinaria para tratar la remoción del dirigente.
+
+### 18.4 Proceso de Apelación
+
+1. **Tribunal de Apelación Modificado:**
+   * Cuando el apelante sea un dirigente, el Tribunal de Apelación excluirá a cualquier miembro de la Comisión Directiva con relación directa o dependencia jerárquica con el apelante.
+   * Para garantizar la imparcialidad, se incorporarán al Tribunal de Apelación dos miembros senior del club (con más de 3 años de antigüedad) que no ocupen cargos dirigenciales, seleccionados por sorteo de una lista predefinida.
+
+2. **Plazos y Procedimientos:**
+   * Los plazos y procedimientos generales de apelación se mantienen igual que para cualquier otro miembro.
+   * La resolución final deberá ser más detallada, explicando claramente cómo se han evitado los conflictos de interés durante el proceso.
+
+### 18.5 Intervención de Instancias Superiores
+
+* En caso de que la infracción cometida por un dirigente sea particularmente grave y afecte la gobernanza del club:
+  * El Comité de Disciplina podrá solicitar la intervención de la Asamblea de Miembros como instancia superior.
+  * Los miembros del club pueden solicitar una Asamblea Extraordinaria si reúnen las firmas necesarias según los estatutos generales del club.
+
+### 18.6 Comunicación y Registro
+
+* Las infracciones cometidas por dirigentes y sus sanciones serán registradas en una sección específica del registro de sanciones.
+* Sin revelar detalles confidenciales, se informará adecuadamente al club sobre la resolución de casos que involucren a dirigentes para mantener la transparencia institucional.
+
+Este procedimiento especial busca garantizar que el proceso disciplinario para dirigentes sea justo e imparcial, manteniendo la confianza de todos los miembros en el sistema disciplinario del club.
 
 ---
 
