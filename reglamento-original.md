@@ -12,10 +12,12 @@
 8. NORMAS PARA ENTRENADORES
 9. NORMAS PARA MANAGERS  
 10. NORMAS PARA DIRIGENTES  
-11. NORMAS PARA EX-JUGADORES  
-12. FALTAS Y SANCIONES  
-13. EVALUACIÓN DE SANCIONES  
-14. PROCESO DE APELACIÓN POR SANCIÓN
+11. NORMAS PARA EL COMITÉ DE DISCIPLINA
+12. NORMAS PARA EX-JUGADORES  
+13. FALTAS Y SANCIONES  
+14. EVALUACIÓN DE SANCIONES  
+15. PROCESO DE APELACIÓN POR SANCIÓN
+16. ÓRGANOS DISCIPLINARIOS
 
 ---
 
@@ -133,6 +135,29 @@ Los dirigentes serán responsables de velar por el cumplimiento de los valores, 
 
 ---
 
+### **NORMAS PARA EL COMITÉ DE DISCIPLINA**
+
+Los miembros del Comité de Disciplina, como representantes del poder judicial del club, deberán:
+
+* Actuar con absoluta imparcialidad, sin dejarse influenciar por amistades, rivalidades o presiones externas.
+* Mantener estricta confidencialidad sobre toda la información manejada durante los procesos de investigación.
+* Realizar las investigaciones con la mayor diligencia posible, respetando los plazos establecidos.
+* Documentar adecuadamente todas las actuaciones, incluyendo actas de reuniones, declaraciones, pruebas y decisiones.
+* Abstenerse de participar en casos donde tengan conflicto de interés personal o familiar.
+* Participar en actividades de formación sobre reglamentación deportiva, resolución de conflictos y procedimientos disciplinarios.
+* Motivar todas sus decisiones, explicando claramente los hechos probados, las normas aplicadas y el razonamiento que lleva a la sanción propuesta.
+* Proponer sanciones proporcionales a la gravedad de la falta cometida, considerando atenuantes y agravantes.
+* No emitir opiniones públicas sobre casos en curso o potenciales infracciones antes de su investigación formal.
+* Presentar un informe anual a la Asamblea General sobre las actividades realizadas, preservando la confidencialidad de los casos específicos.
+* Mantener una comunicación clara y respetuosa con todas las partes involucradas en los procesos disciplinarios.
+* Crear y mantener un archivo histórico de casos y decisiones que pueda servir como precedente para situaciones similares futuras.
+
+**Incompatibilidades:**
+* Para garantizar la independencia e imparcialidad del Comité de Disciplina, no podrán formar parte del mismo: capitanes, subcapitanes, managers, entrenadores ni dirigentes del club.
+* Quienes ocupen estos cargos deberán esperar al menos seis meses después de cesar en sus funciones para poder postularse como miembros del Comité de Disciplina.
+
+---
+
 ### **NORMAS PARA EX-JUGADORES**
 
 Cada ex-jugador tiene la responsabilidad de cuidar la imagen del club en cualquier ámbito. El incumplimiento de este punto podría resultar en la pérdida del derecho a readmisión. Adicionalmente, los ex-jugadores deberán:
@@ -231,21 +256,121 @@ Cada caso será revisado por el Comité de Disciplina del club. El Comité evalu
    * **El fundamento de la sanción.**  
    * **El plazo para presentar la apelación.**  
 3. **Procedimiento de Apelación:**  
-   * **Solicitud escrita: El miembro deberá enviar una solicitud por escrito al Comité de Disciplina, explicando los motivos por los cuales considera injusta la sanción.**  
+   * **Solicitud escrita: El miembro deberá enviar una solicitud por escrito al Tribunal de Apelación, explicando los motivos por los cuales considera injusta la sanción.**  
    * **Contenido: La solicitud debe incluir:**  
      * **Nombre completo del apelante.**  
      * **Detalles de la sanción.**  
      * **Motivos de la apelación.**  
      * **Cualquier prueba o testimonio relevante.**  
-4. **Evaluación de la Apelación: El Comité revisará los hechos, pruebas y entrevistará a las partes involucradas. Podrán solicitar más información si es necesario para una decisión justa.**  
-5. **Audiencia (opcional): Si el apelante lo solicita, se podrá realizar una audiencia formal, respetuosa y objetiva, donde todas las partes involucradas podrán presentar su versión y pruebas.**  
-6. **Decisión Final: Tras evaluar la apelación, el Comité tomará una decisión:**  
+4. **Evaluación de la Apelación: El Tribunal revisará los hechos, pruebas y podrá consultar al miembro informante del Comité de Disciplina. Podrán solicitar más información si es necesario para una decisión justa.**  
+5. **Audiencia (opcional): Si el Tribunal lo considera necesario, se podrá citar al apelante para que presente personalmente sus argumentos.**  
+6. **Decisión Final: Tras evaluar la apelación, el Tribunal tomará una decisión:**  
    * **Revocar la sanción: Si la sanción fue inapropiada.**  
    * **Reducir la sanción: Si se considera excesiva.**  
    * **Confirmar la sanción: Si se justifica la sanción impuesta.**  
 7. **La decisión será notificada por escrito en un plazo de 5 días hábiles.**  
-8. **Resolución Definitiva: La decisión final del Comité de Disciplina es inapelable dentro del club.**  
+8. **Resolución Definitiva: La decisión final del Tribunal de Apelación es inapelable dentro del club.**  
 9. **Confidencialidad: El proceso de apelación será confidencial, y solo se revelarán detalles si las partes lo consienten o si lo exige la ley.**
+
+---
+
+### **ÓRGANOS DISCIPLINARIOS**
+
+El club cuenta con un sistema disciplinario estructurado que separa las funciones de investigación, dictamen y aplicación de sanciones, garantizando un proceso justo y equilibrado.
+
+**1. Comité de Disciplina**
+
+*Definición:* Es el órgano responsable de investigar las posibles infracciones a las normas del club, recolectar pruebas y dictar las sanciones correspondientes. Ejerce el rol de poder judicial dentro del club.
+
+*Composición:*
+* El Comité de Disciplina está formado por tres (3) miembros del club.
+* Estos miembros serán elegidos democráticamente por los socios del club.
+* Por razones de independencia e imparcialidad, no podrán formar parte del Comité de Disciplina: capitanes, subcapitanes, managers, entrenadores ni dirigentes del club.
+
+*Elección y Mandato:*
+* La elección se realizará anualmente durante la Asamblea General Ordinaria.
+* Cualquier miembro del club con al menos un año de antigüedad puede postularse como candidato, siempre que no ocupe ninguno de los cargos incompatibles mencionados.
+* El período de mandato será de un año, pudiendo ser reelegidos.
+* Para garantizar la imparcialidad, ningún miembro del Comité de Disciplina podrá formar parte simultáneamente de la Comisión Directiva ni ocupar puestos de liderazgo deportivo.
+* Quienes ocupen cargos incompatibles deberán esperar al menos seis meses después de cesar en sus funciones para poder postularse como miembros del Comité.
+
+*Funciones:*
+* Investigar posibles infracciones al reglamento, ya sea actuando de oficio o por denuncia recibida.
+* Recolectar pruebas relacionadas con los casos bajo investigación.
+* Tomar declaraciones a testigos y partes involucradas.
+* Analizar los hechos en contraste con el reglamento del club.
+* Deliberar y dictar las sanciones que correspondan según la gravedad de la falta.
+* Notificar las decisiones tomadas a la Comisión Directiva para su aplicación.
+* Documentar todo el proceso de manera detallada y transparente.
+
+*Procedimiento:*
+* Las denuncias deben presentarse por escrito al Comité.
+* El Comité puede actuar de oficio ante infracciones evidentes.
+* Se notificará a la persona investigada sobre el proceso iniciado.
+* Se recopilará toda la evidencia necesaria para evaluar el caso.
+* Se otorgará a la persona investigada la oportunidad de presentar su versión.
+* Una vez completada la investigación, el Comité deliberará y dictará la sanción que corresponda.
+* Las decisiones se tomarán por mayoría simple de los tres miembros.
+* La decisión será comunicada formalmente a la Comisión Directiva para su aplicación.
+* Toda resolución disciplinaria dictada por el Comité deberá ser registrada en un acta oficial (implementada en la práctica mediante una planilla de cálculo de Google Sheets o cualquier otro medio adecuado que garantice su conservación y accesibilidad).
+* El acta deberá incluir como mínimo: fecha, identificación del caso, miembros del Comité presentes, descripción de la infracción, normas aplicables, pruebas consideradas, decisión adoptada y firma digital o física de los miembros.
+
+**2. Comisión Directiva**
+
+*Rol Disciplinario:* La Comisión Directiva actúa como poder ejecutivo en el proceso disciplinario, siendo responsable de la aplicación efectiva de las sanciones dictadas por el Comité de Disciplina.
+
+*Funciones Disciplinarias:*
+* Recibir las sanciones dictadas por el Comité de Disciplina.
+* Revisar las sanciones propuestas y deliberar sobre su aplicación.
+* Aplicar las sanciones dictadas por el Comité de Disciplina.
+* Ejercer el derecho de veto o modificación de las sanciones cuando lo considere necesario, pudiendo reducir la sanción o incrementar la pena.
+* Notificar formalmente al miembro sancionado sobre la decisión final.
+* Supervisar el cumplimiento efectivo de las sanciones.
+* Mantener un registro de las sanciones aplicadas.
+
+*Procedimiento de Revisión:*
+* La Comisión Directiva recibirá el dictamen del Comité de Disciplina con toda la documentación del caso.
+* Evaluará la sanción propuesta en un plazo no mayor a 7 días.
+* En caso de considerar necesaria una modificación, deberá fundamentar por escrito las razones.
+* Comunicará su decisión final tanto al Comité de Disciplina como al miembro sancionado.
+* La decisión final de la Comisión Directiva será de cumplimiento obligatorio.
+* Toda decisión adoptada por la Comisión Directiva en materia disciplinaria deberá ser registrada en un acta oficial (implementada en la práctica mediante una planilla de cálculo de Google Sheets o cualquier otro medio adecuado).
+* El acta deberá incluir: fecha de la decisión, referencia al caso original del Comité de Disciplina, miembros de la Comisión presentes, decisión adoptada (confirmación, modificación o veto de la sanción propuesta), fundamentos de la decisión y firmas correspondientes.
+* Las actas de resoluciones disciplinarias, tanto del Comité como de la Comisión Directiva, deberán mantenerse actualizadas y disponibles para consulta por parte de los órganos directivos cuando sea necesario.
+
+**3. Tribunal de Apelación**
+
+*Definición:* Es el órgano encargado de revisar las apelaciones contra las decisiones disciplinarias, constituyendo la instancia final en el proceso disciplinario dentro del club.
+
+*Composición:*
+* El Tribunal de Apelación está formado por miembros de la Comisión Directiva.
+* Un miembro del Comité de Disciplina podrá participar en las sesiones del Tribunal, pero únicamente cuando sea convocado por el Tribunal, actuando exclusivamente como informante y sin derecho a voto.
+* El informante del Comité de Disciplina tiene la función de proporcionar información adicional sobre el caso cuando sea necesario, aclarar el proceso de investigación seguido y responder a las consultas del Tribunal.
+
+*Funciones:*
+* Recibir y evaluar las apelaciones presentadas por los miembros sancionados.
+* Revisar la documentación y evidencias del caso original.
+* Solicitar, cuando sea necesario, información adicional al Comité de Disciplina.
+* Deliberar sobre la pertinencia de la sanción impuesta.
+* Emitir una resolución final que confirme, modifique o revoque la sanción.
+* Comunicar la decisión al apelante y al Comité de Disciplina.
+
+*Procedimiento:*
+* Las apelaciones deben presentarse por escrito en el plazo establecido en la sección de "PROCESO DE APELACIÓN POR SANCIÓN".
+* El Tribunal convocará al miembro informante del Comité de Disciplina para conocer los detalles del caso.
+* Se podrá citar al apelante para que presente personalmente sus argumentos si el Tribunal lo considera necesario.
+* La deliberación final se realizará únicamente con los miembros de la Comisión Directiva.
+* La decisión será comunicada por escrito y será definitiva e inapelable dentro del ámbito del club.
+
+**4. Disposiciones Comunes**
+
+* Tanto el Comité de Disciplina como la Comisión Directiva y el Tribunal de Apelación actuarán con imparcialidad y confidencialidad.
+* Se mantendrá un registro escrito de todas las actuaciones disciplinarias.
+* Los miembros de todos los órganos deberán abstenerse en casos donde exista conflicto de interés.
+* Anualmente se evaluará la efectividad del sistema disciplinario y se propondrán mejoras si fuera necesario.
+* Ninguna sanción podrá contravenir la legislación vigente o los derechos fundamentales de las personas.
+
+Esta clara separación de poderes garantiza un sistema disciplinario justo y transparente, que respeta los derechos de todos los miembros mientras promueve el cumplimiento de las normas del club.
 
  
 
