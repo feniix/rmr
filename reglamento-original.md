@@ -199,11 +199,41 @@ Para garantizar la proporcionalidad y coherencia en la aplicación de sanciones,
 * No requieren reincidencia para aplicar las sanciones más severas.
 * Ejemplos: violencia física, consumo o distribución de sustancias prohibidas, discriminación, introducción de objetos peligrosos.
 
-**Consideraciones sobre Reincidencia:**
-* Se considera reincidencia la comisión de una nueva infracción dentro del período de un año desde la anterior.
-* Las infracciones prescriben después de un año, salvo las muy graves que prescriben a los dos años.
-* La acumulación de tres infracciones leves en un año se considerará como una infracción grave.
-* La acumulación de dos infracciones graves en un año se considerará como una infracción muy grave.
+**Consideraciones sobre Reincidencia y Prescripción:**
+
+* **Reincidencia:** Se considera reincidencia la comisión de una nueva infracción de la misma categoría dentro del período de prescripción establecido.
+
+* **Plazos de Prescripción:**
+  * **Infracciones Leves:** Prescriben a los 6 meses desde la fecha de comisión o desde la fecha en que se cumplió completamente la sanción, lo que ocurra después.
+  * **Infracciones Graves:** Prescriben a los 12 meses desde la fecha de comisión o desde la fecha en que se cumplió completamente la sanción, lo que ocurra después.
+  * **Infracciones Muy Graves:** Prescriben a los 24 meses desde la fecha de comisión o desde la fecha en que se cumplió completamente la sanción, lo que ocurra después.
+  * **Expulsiones Temporales:** El período de prescripción comienza a contarse a partir de la fecha de reincorporación al club.
+
+* **Acumulación de Infracciones:**
+  * La acumulación de tres infracciones leves en un período de 12 meses se considerará como una infracción grave.
+  * La acumulación de dos infracciones graves en un período de 12 meses se considerará como una infracción muy grave.
+  * Las infracciones de diferente categoría no se acumulan entre sí, salvo lo especificado en los puntos anteriores.
+
+* **Registro y Eliminación de Antecedentes:**
+  * Todas las infracciones se registrarán en la ficha individual disciplinaria del miembro.
+  * Una vez transcurrido el plazo de prescripción, la infracción ya no se considerará para determinar reincidencia, pero permanecerá en el historial a efectos estadísticos con una marca de "prescrita".
+  * El historial disciplinario completo se conservará durante 5 años, tras los cuales las infracciones prescritas serán eliminadas del registro.
+  * Las infracciones que hayan derivado en expulsión, aunque sea temporal, se mantendrán en el registro por 5 años desde la fecha de reincorporación.
+
+* **Atenuantes por Buena Conducta:**
+  * Si un miembro no comete ninguna infracción durante un período continuo de:
+    * 12 meses: Los plazos de prescripción de sus infracciones leves anteriores se reducirán a la mitad.
+    * 18 meses: Los plazos de prescripción de sus infracciones graves anteriores se reducirán a la mitad.
+    * 24 meses: Los plazos de prescripción de sus infracciones muy graves anteriores se reducirán a la mitad.
+  * La reducción del plazo de prescripción por buena conducta se aplicará una sola vez por cada infracción.
+
+* **Interrupción de la Prescripción:**
+  * El plazo de prescripción se interrumpe cuando se inicia un nuevo procedimiento disciplinario contra el miembro.
+  * Si el procedimiento concluye sin sanción, el plazo de prescripción continuará contando desde donde se interrumpió.
+
+* **Rehabilitación del Historial:**
+  * Cualquier miembro puede solicitar formalmente la revisión de su historial disciplinario tras dos años consecutivos sin infracciones.
+  * La Comisión Directiva, previo informe favorable del Comité de Disciplina, podrá determinar la "rehabilitación" del miembro, eliminando las infracciones leves y graves de su historial a efectos de reincidencia.
 
 ---
 
