@@ -443,6 +443,31 @@ Este sistema permite que el Comité refleje mejor las distintas opiniones dentro
 * Toda resolución disciplinaria dictada por el Comité deberá ser registrada en un acta oficial (implementada en la práctica mediante una planilla de cálculo de Google Sheets o cualquier otro medio adecuado que garantice su conservación y accesibilidad) en un plazo máximo de 2 días desde su adopción.
 * El acta deberá incluir como mínimo: fecha, identificación del caso, miembros del Comité presentes, descripción de la infracción, normas aplicables, pruebas consideradas, decisión adoptada y firma digital o física de los miembros.
 
+#### Procedimiento de Abstención y Suplencia
+
+Cuando un miembro del Comité de Disciplina deba abstenerse de participar en un caso o se encuentre imposibilitado para hacerlo:
+
+1. **Causales de abstención obligatoria:**
+   * Relación de parentesco hasta el segundo grado con alguna de las partes involucradas.
+   * Amistad íntima o enemistad manifiesta con alguna de las partes.
+   * Interés directo o indirecto en el asunto.
+   * Haber participado en los hechos objeto de investigación.
+   * Haber emitido opinión pública sobre el caso antes de su conocimiento formal.
+
+2. **Procedimiento de abstención:**
+   * El miembro que se encuentre en alguna de las causales deberá comunicarlo por escrito a los demás miembros del Comité tan pronto tenga conocimiento del caso.
+   * Si un miembro no se abstiene voluntariamente estando en causal, cualquier parte interesada podrá solicitar su recusación, presentando las pruebas correspondientes.
+   * La recusación será resuelta por los otros miembros titulares en un plazo de 48 horas.
+
+3. **Sistema de suplencias:**
+   * Cuando un titular se abstenga o sea recusado, asumirá automáticamente el primer suplente.
+   * Si más de un titular debe abstenerse, asumirán los suplentes en el orden determinado por la cantidad de votos obtenidos en su elección.
+   * En el improbable caso de que todos los miembros (titulares y suplentes) deban abstenerse, se conformará un Comité ad hoc compuesto por tres miembros del club con más de dos años de antigüedad, designados por sorteo entre quienes no tengan incompatibilidad con el caso.
+
+4. **Registro de abstenciones:**
+   * Toda abstención o recusación quedará documentada en el registro de actuaciones del Comité.
+   * Se especificarán los motivos y el miembro suplente que asumió en reemplazo.
+
 ### 16.2 Comisión Directiva
 
 #### Rol Disciplinario
@@ -502,7 +527,33 @@ Es el órgano encargado de revisar las apelaciones contra las decisiones discipl
 * Anualmente se evaluará la efectividad del sistema disciplinario y se propondrán mejoras si fuera necesario.
 * Ninguna sanción podrá contravenir la legislación vigente o los derechos fundamentales de las personas.
 
-Esta clara separación de poderes garantiza un sistema disciplinario justo y transparente, que respeta los derechos de todos los miembros mientras promueve el cumplimiento de las normas del club.
+### 16.5 Sistema de Documentación y Registro
+
+El sistema de documentación busca ser simple pero efectivo, asegurando transparencia sin generar burocracia excesiva:
+
+1. **Registro básico:**
+   * Se mantendrá un archivo digital único con las sanciones y casos disciplinarios.
+   * Se utilizará una planilla simple (hoja de cálculo) compartida entre el Comité de Disciplina y la Comisión Directiva.
+   * Cada caso se registrará con: fecha, nombre del involucrado, descripción breve, sanción aplicada y estado (pendiente, cumplida, apelada).
+
+2. **Responsable del registro:**
+   * Un miembro del Comité de Disciplina será designado como encargado del registro.
+   * En caso de ausencia, cualquier otro miembro del Comité podrá actualizar el registro.
+
+3. **Respaldo de evidencias:**
+   * Solo se guardarán las evidencias esenciales (capturas de pantalla, testimonios escritos).
+   * Los documentos se guardarán en una carpeta compartida en la nube.
+   * Se organizarán por año y apellido del involucrado.
+
+4. **Preservación de la privacidad:**
+   * El acceso al registro será exclusivo para miembros del Comité de Disciplina y la Comisión Directiva.
+   * No se compartirán detalles de casos individuales en grupos generales del club.
+
+5. **Transición simplificada:**
+   * Al renovarse los miembros del Comité, el encargado del registro compartirá los accesos con los nuevos miembros.
+   * Se realizará una sesión breve para explicar la organización del sistema.
+
+Este sistema simplificado mantiene lo esencial para asegurar transparencia y seguimiento, sin crear cargas administrativas excesivas para un club deportivo amateur.
 
 ## 17. Protocolos de Comunicación Oficial
 
@@ -550,6 +601,43 @@ Para mantener un ambiente saludable y respetuoso en las comunicaciones oficiales
    * Se considera una falta leve el uso inapropiado de los canales oficiales para temas no relacionados con el club.
    * Se considera una falta grave la difusión de información falsa o malintencionada a través de los canales oficiales.
 
+### 17.3 Faltas en Comunicaciones Digitales
+
+1. **Detección y reporte de faltas:**
+   * Cualquier miembro del club puede reportar faltas cometidas en los canales oficiales de comunicación.
+   * El reporte debe realizarse mediante mensaje privado a los administradores del grupo o a cualquier miembro del Comité de Disciplina.
+   * Los administradores de grupos digitales están facultados para tomar capturas de pantalla como evidencia antes de que un mensaje inapropiado pueda ser eliminado por su autor.
+
+2. **Documentación específica:**
+   * Las faltas en comunicaciones digitales deben documentarse mediante:
+     * Capturas de pantalla del mensaje inapropiado
+     * Registro de fecha y hora del mensaje
+     * Contexto de la conversación
+     * Identificación clara del autor
+   * Esta documentación será remitida al Comité de Disciplina en un plazo no mayor a 48 horas.
+
+3. **Procedimiento abreviado para faltas leves:**
+   * Para faltas leves en comunicaciones digitales, los administradores del grupo podrán:
+     * Enviar una advertencia privada al autor
+     * Solicitar la rectificación o eliminación del mensaje inapropiado
+     * Registrar el incidente para futuras referencias
+   * Si la persona acata la advertencia, no será necesario elevar el caso al Comité de Disciplina.
+
+4. **Medidas inmediatas:**
+   * En caso de faltas graves o muy graves en las comunicaciones, los administradores podrán:
+     * Eliminar el mensaje inapropiado
+     * Restringir temporalmente la capacidad de enviar mensajes (máximo 24 horas)
+     * Notificar inmediatamente al Comité de Disciplina
+   * Estas medidas inmediatas no sustituyen el proceso disciplinario formal, sino que son preventivas.
+
+5. **Proporcionalidad:**
+   * La evaluación de la gravedad de las faltas en comunicaciones digitales considerará:
+     * El contenido del mensaje
+     * Su alcance (grupo completo o mensaje privado)
+     * La intencionalidad
+     * La reincidencia
+     * El daño potencial a la imagen del club o a otros miembros
+
 ### 17.3 Ausencias y Notificaciones
 
 * Toda ausencia a entrenamientos, partidos o actividades del club debe ser notificada:
@@ -578,7 +666,7 @@ Cuando un miembro de la Comisión Directiva o cualquier persona que ejerza un ca
 
 2. **Conformación Especial del Comité:**
    * Cuando se investigue a un dirigente, el Comité de Disciplina actuará con sus tres (3) miembros titulares y los dos (2) suplentes participarán con voz pero sin voto, como veedores adicionales del proceso.
-   * Si algún miembro titular tiene relación personal o de dependencia directa con el dirigente investigado, deberá abstenerse y será reemplazado por un suplente.
+   * Si algún miembro titular tiene relación personal o de dependencia directa con el dirigente investigado, deberá abstenerse y ser reemplazado por un suplente.
 
 3. **Notificación Especial:**
    * El dirigente investigado será notificado formalmente por escrito de la investigación.
