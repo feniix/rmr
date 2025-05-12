@@ -216,27 +216,31 @@ A continuación se detallan las infracciones específicas, su categorización y 
 1. **Actos de violencia o agresión física**  
    *Descripción:* Participación en peleas o agresiones físicas contra otros miembros del club, árbitros, rivales o espectadores.  
    *Categoría:* Muy grave.  
-   *Consecuencia:* Suspensión inmediata de todas las actividades por un mínimo de 30 días. Según la gravedad, puede derivar en expulsión del club. En caso de lesiones, el responsable deberá cubrir los gastos médicos ocasionados.  
+   *Primera infracción:* Suspensión inmediata de todas las actividades por un período de 30 a 60 días, según la gravedad de la agresión.  
+   *Segunda infracción:* Expulsión del club por un período mínimo de 1 año, con posibilidad de readmisión sujeta a evaluación de la Comisión Directiva.
+   *Nota:* En caso de lesiones, el responsable deberá cubrir los gastos médicos ocasionados. Si la gravedad del incidente lo amerita, incluso la primera infracción puede resultar en expulsión directa.
 
 2. **Consumo de sustancias prohibidas**  
    *Descripción:* Consumir, portar o distribuir sustancias ilegales durante entrenamientos, partidos o cualquier actividad del club.  
    *Categoría:* Muy grave.  
-   *Primera infracción:* Advertencia verbal y suspensión de 1 partido.  
-   *Segunda infracción:* Suspensión de 3 partidos y obligación de colaborar con el manager y/o entrenador como sea necesario en los siguientes 2 partidos.  
+   *Primera infracción:* Suspensión de todas las actividades por 15 días.  
+   *Segunda infracción:* Suspensión de todas las actividades por 90 días y obligación de asistir a charlas de concientización.  
    *Tercera infracción:* Expulsión del club por un período mínimo de 1 año, con posibilidad de readmisión sujeta a evaluación de la Comisión Directiva.  
+   *Nota:* En caso de distribución de sustancias, incluso en primera infracción, la sanción puede elevarse directamente a expulsión.
 
 3. **Introducción de objetos peligrosos**  
    *Descripción:* Llevar o introducir objetos peligrosos en actividades del equipo o del club.  
    *Categoría:* Muy grave.  
-   *Primera infracción:* Suspensión inmediata de todas las actividades por un período de 15 a 30 días, según la peligrosidad del objeto.  
-   *Segunda infracción:* Expulsión del club y, si corresponde por la gravedad, notificación a las autoridades competentes en un plazo de 24 horas.  
+   *Primera infracción:* Suspensión inmediata de todas las actividades por un período de 30 a 60 días, según la peligrosidad del objeto.  
+   *Segunda infracción:* Expulsión del club por un período mínimo de 1 año, con posibilidad de readmisión sujeta a evaluación.
+   *Nota:* Si el objeto representa un peligro extremo o existe intención manifiesta de causar daño, incluso la primera infracción puede resultar en expulsión directa.
 
 4. **Abuso de autoridad o poder**  
    *Descripción:* Usar una posición de liderazgo para perjudicar a otros miembros del club.  
    *Categoría:* Muy grave.  
-   *Primera infracción:* Advertencia escrita, suspensión temporal del cargo de liderazgo por 15 días y evaluación de desempeño.  
-   *Segunda infracción:* Suspensión definitiva del cargo de liderazgo y suspensión de actividades del club por 30 días.  
-   *Tercera infracción:* Expulsión del club por un período mínimo de 2 años.  
+   *Primera infracción:* Suspensión temporal del cargo de liderazgo por 30 días, advertencia escrita y obligación de disculparse con los afectados.  
+   *Segunda infracción:* Suspensión definitiva del cargo de liderazgo y suspensión de todas las actividades del club por 60 días.  
+   *Tercera infracción:* Expulsión del club por un período mínimo de 1 año.  
 
 **INFRACCIONES GRAVES:**
 
@@ -244,51 +248,59 @@ A continuación se detallan las infracciones específicas, su categorización y 
    *Descripción:* Actos de desconsideración o falta de respeto hacia cualquier miembro del club.  
    *Categoría:* Grave.  
    *Primera infracción:* Advertencia verbal y disculpa formal al afectado en un plazo máximo de 48 horas.  
-   *Segunda infracción:* Suspensión de 1 partido y obligación de ser ayudante en 2 entrenamientos consecutivos.  
-   *Tercera infracción:* Suspensión temporal de 30 días de entrenamientos y partidos.  
+   *Segunda infracción:* Suspensión de 2 partidos y 10 horas de servicio comunitario en el club.  
+   *Tercera infracción:* Suspensión de todas las actividades del club por 30 días.
+   *Cuarta infracción:* Evaluación para posible recategorización como infracción muy grave.
 
 6. **Desacato a decisiones arbitrales**  
    *Descripción:* Protestar de forma irrespetuosa contra los árbitros durante partidos oficiales o amistosos.  
    *Categoría:* Grave.  
    *Primera infracción:* Advertencia verbal y obligación de disculparse con el árbitro afectado.  
    *Segunda infracción:* Suspensión de 2 partidos y obligación de realizar tareas de apoyo al árbitro en los siguientes 3 entrenamientos.  
-   *Tercera infracción:* Suspensión por 60 días de todas las actividades del club.
-   *Cuarta infracción:* Expulsión del club.  
+   *Tercera infracción:* Suspensión de todas las actividades del club por 30 días.
+   *Cuarta infracción:* Suspensión por 90 días o recategorización como infracción muy grave.
 
 7. **Desobediencia hacia el entrenador o capitán**  
    *Descripción:* No seguir instrucciones directas del entrenador o capitán durante entrenamientos, partidos u otras actividades organizadas específicamente por el equipo.  
    *Categoría:* Grave.  
    *Primera infracción:* Advertencia verbal y charla con el entrenador o capitán dentro de las 24 horas siguientes.  
-   *Segunda infracción:* Advertencia escrita, suspensión de 1 entrenamiento y obligación de mantener una reunión formal con el entrenador y capitán.  
-   *Tercera infracción:* Suspensión temporal de 21 días de entrenamientos y partidos.  
+   *Segunda infracción:* Suspensión de 1 partido y obligación de mantener una reunión formal con el entrenador y capitán.  
+   *Tercera infracción:* Suspensión de todas las actividades del club por 30 días.
+   *Cuarta infracción:* Suspensión por 90 días o recategorización como infracción muy grave.
 
 8. **Abandono de actividades sin previo aviso**  
    *Descripción:* Retirarse de entrenamientos, partidos u otras actividades del equipo sin informar a los responsables.  
    *Categoría:* Grave.  
    *Primera infracción:* Advertencia escrita explicando la afectación al club, que debe ser respondida en un plazo de 72 horas.  
-   *Segunda infracción:* Suspensión de 1 partido y obligación de ser ayudante en los siguientes 2 entrenamientos.  
-   *Tercera infracción:* Suspensión por 45 días de todas las actividades del club y evaluación para posible expulsión.  
+   *Segunda infracción:* Suspensión de 2 partidos y obligación de ser ayudante en los siguientes 2 entrenamientos.  
+   *Tercera infracción:* Suspensión de todas las actividades del club por 30 días.
+   *Cuarta infracción:* Suspensión por 90 días o recategorización como infracción muy grave.
 
 9. **Falta de respeto al rival en redes sociales o en partidos**  
    *Descripción:* Emitir comentarios ofensivos hacia equipos rivales o sus miembros a través de cualquier medio.  
    *Categoría:* Grave.  
    *Primera infracción:* Advertencia verbal, disculpas públicas en el mismo medio en un plazo máximo de 24 horas y eliminación inmediata del contenido ofensivo.  
-   *Segunda infracción:* Advertencia escrita, suspensión de 2 partidos y prohibición de uso de redes sociales en nombre del club por 60 días.  
-   *Tercera infracción:* Suspensión por 90 días de todas las actividades del club o, según la gravedad, expulsión del club.  
+   *Segunda infracción:* Suspensión de 2 partidos y prohibición de uso de redes sociales en nombre del club por 60 días.  
+   *Tercera infracción:* Suspensión de todas las actividades del club por 30 días.
+   *Cuarta infracción:* Suspensión por 90 días o recategorización como infracción muy grave.
 
 **INFRACCIONES LEVES:**
 
 10. **Falta de cuidado de los materiales e instalaciones**  
     *Descripción:* Daño o uso indebido de las instalaciones y materiales del club.  
     *Categoría:* Leve (puede elevarse a grave según la intencionalidad y el valor del daño).  
-    *Consecuencia:* Reparación o reposición del daño causado en un plazo máximo de 15 días. Adicionalmente, según la gravedad y la intencionalidad, el Comité de Disciplina puede imponer sanciones que van desde servicio comunitario en el club (5 a 20 horas) hasta suspensiones temporales.  
+    *Primera infracción:* Reparación o reposición del daño causado en un plazo máximo de 15 días y advertencia verbal.
+    *Segunda infracción:* Reparación o reposición del daño causado y 10 horas de servicio comunitario en el club.
+    *Tercera infracción:* Reparación o reposición del daño causado y suspensión de 1 partido.
+    *Nota:* Si el daño es intencional o de valor significativo, se recategorizará como infracción grave.
 
 11. **Uso inapropiado de tecnología**  
     *Descripción:* Uso de dispositivos electrónicos en momentos inapropiados durante entrenamientos, partidos u otras actividades del equipo, o grabación no autorizada de miembros del club.  
     *Categoría:* Leve.  
     *Primera infracción:* Advertencia verbal.
     *Segunda infracción:* Advertencia escrita y prohibición de llevar dispositivos a las siguientes 3 actividades del equipo.
-    *Tercera infracción:* Suspensión de 1 partido y 10 horas de servicio comunitario en actividades del club.
+    *Tercera infracción:* Suspensión de 1 partido.
+    *Cuarta infracción:* Recategorización como infracción grave.
 
 ---
 
