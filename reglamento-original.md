@@ -379,6 +379,39 @@ Es el órgano responsable de investigar las posibles infracciones a las normas d
 * Para garantizar la imparcialidad, ningún miembro del Comité de Disciplina podrá formar parte simultáneamente de la Comisión Directiva ni ocupar puestos de liderazgo deportivo.
 * Quienes ocupen cargos incompatibles deberán esperar al menos seis meses después de cesar en sus funciones para poder postularse como miembros del Comité.
 
+#### Sistema de Elección: Voto Único Transferible (VUT)
+
+Para elegir a los miembros del Comité de Disciplina de manera justa y representativa, usaremos un sistema de votación por preferencias, explicado de la siguiente manera:
+
+1. **Postulación:**
+   * Cualquier socio con al menos un año en el club puede presentarse como candidato (siempre que no tenga incompatibilidades).
+   * Las candidaturas se presentan hasta dos semanas antes de la votación.
+   * Cada candidato puede incluir un breve texto explicando por qué quiere formar parte del Comité.
+
+2. **¿Cómo se vota?**
+   * El día de la votación, cada socio recibe una lista con todos los candidatos.
+   * Cada socio numera los candidatos según su preferencia: 1 para su favorito, 2 para el segundo, y así sucesivamente.
+   * No es necesario numerar a todos los candidatos - puedes votar solo a los que consideres adecuados.
+
+3. **¿Cómo se cuentan los votos?**
+   * Primero contamos solo los "1" (primera preferencia) de cada candidato.
+   * Los candidatos que alcancen cierto número mínimo de votos son elegidos directamente.
+   * Si un candidato recibe muchos más votos de los necesarios, los "votos extra" no se desperdician: se reparten entre las segundas opciones de esas papeletas.
+   * Si después de esto todavía faltan puestos por llenar, eliminamos al candidato con menos votos y repartimos sus votos a las siguientes preferencias señaladas en esas papeletas.
+   * Este proceso se repite hasta completar todos los puestos necesarios.
+
+4. **En caso de empate:**
+   * Si hay empate, miramos quién tiene más preferencias en total (sumando primeras, segundas, etc.).
+   * Si sigue habiendo empate, gana el candidato con más tiempo en el club.
+   * Si todavía hay empate, se decide por sorteo en el momento.
+
+5. **Transparencia:**
+   * Todo el conteo se hace abiertamente durante la Asamblea.
+   * Tres socios que no sean candidatos supervisarán el proceso.
+   * Los resultados completos estarán disponibles para quien quiera revisarlos.
+
+Este sistema permite que el Comité refleje mejor las distintas opiniones dentro del club, evitando que un solo grupo acapare todas las posiciones y asegurando que los elegidos tengan amplio respaldo.
+
 #### Funciones
 * Investigar posibles infracciones al reglamento, ya sea actuando de oficio o por denuncia recibida.
 * Recolectar pruebas relacionadas con los casos bajo investigación.
