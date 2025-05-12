@@ -96,13 +96,28 @@ Los entrenadores y managers deberán:
 
 ### **NORMAS PARA DIRIGENTES**
 
-Los dirigentes serán responsables de velar por el cumplimiento de los valores, visión y misión del club, asegurándose de que se acaten todas las normas.
+Los dirigentes serán responsables de velar por el cumplimiento de los valores, visión y misión del club, asegurándose de que se acaten todas las normas. Además, deberán:
+
+* Mantener una gestión transparente de los recursos del club.
+* Comunicar oportunamente decisiones importantes a todos los miembros.
+* Representar dignamente al club en eventos oficiales y reuniones con otras instituciones.
+* Planificar actividades que fomenten la integración de todos los miembros.
+* Coordinar con entrenadores y managers para definir objetivos deportivos realistas.
+* Buscar continuamente oportunidades de crecimiento y mejora para el club.
+* Resolver conflictos de manera imparcial y justa, siempre velando por el bienestar colectivo.
 
 ---
 
 ### **NORMAS PARA EX-JUGADORES**
 
-Cada ex-jugador tiene la responsabilidad de cuidar la imagen del club en cualquier ámbito. El incumplimiento de este punto podría resultar en la pérdida del derecho a readmisión.
+Cada ex-jugador tiene la responsabilidad de cuidar la imagen del club en cualquier ámbito. El incumplimiento de este punto podría resultar en la pérdida del derecho a readmisión. Adicionalmente, los ex-jugadores deberán:
+
+* Mantener una actitud de respeto hacia el club, sus miembros y su historia.
+* Apoyar al club en la medida de sus posibilidades, ya sea asistiendo a eventos especiales o compartiendo su experiencia con nuevos jugadores.
+* Servir como embajadores del club, promoviendo sus valores en diferentes espacios.
+* Respetar las decisiones tomadas por la dirigencia actual, evitando críticas destructivas.
+* Mantener una conducta ejemplar en eventos donde representen al club.
+* Participar cuando sea posible en actividades de integración organizadas por el club.
 
 ---
 
@@ -164,6 +179,19 @@ Cada ex-jugador tiene la responsabilidad de cuidar la imagen del club en cualqui
 ### **EVALUACIÓN DE SANCIONES**
 
 Cada caso será revisado por el Comité de Disciplina del club. El Comité evaluará la gravedad de la falta y determinará la sanción correspondiente, teniendo en cuenta el historial del jugador y el contexto de la infracción.
+
+**Composición del Comité de Disciplina:**
+* Un representante de la dirigencia del club (presidente o vicepresidente).
+* Un representante de los entrenadores.
+* Un representante de los jugadores (capitán del primer equipo o su designado).
+* Un miembro neutral con experiencia en mediación o resolución de conflictos.
+
+**Funcionamiento del Comité:**
+* Se reunirá periódicamente y también cuando sea necesario atender casos específicos.
+* Las decisiones se tomarán por mayoría, siendo necesario un mínimo de tres miembros presentes.
+* Llevará un registro de todas las sanciones impuestas y su cumplimiento.
+* Evaluará anualmente la efectividad del sistema disciplinario y propondrá mejoras cuando corresponda.
+* Deberá mantener imparcialidad y confidencialidad en todos los casos analizados.
 
 ---
 
