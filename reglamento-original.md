@@ -23,6 +23,7 @@
 17. [Protocolos de Comunicación Oficial](#17-protocolos-de-comunicación-oficial)
 18. [Procedimientos Especiales para Infracciones Cometidas por Dirigentes](#18-procedimientos-especiales-para-infracciones-cometidas-por-dirigentes)
 19. [Disposiciones Finales y Conclusiones](#19-disposiciones-finales-y-conclusiones)
+20. [Infracciones que Pueden Constituir Delitos](#20-infracciones-que-pueden-constituir-delitos)
 
 ---
 
@@ -209,6 +210,18 @@ Para garantizar la proporcionalidad y coherencia en la aplicación de sanciones,
 * No requieren reincidencia para aplicar las sanciones más severas.
 * Ejemplos: violencia física, consumo o distribución de sustancias prohibidas, discriminación, introducción de objetos peligrosos.
 
+### Tabla de Referencia para Sanciones
+
+Para asegurar la proporcionalidad y coherencia en la aplicación de sanciones, se establece la siguiente tabla de referencia:
+
+| Categoría | Primera infracción | Segunda infracción | Tercera infracción | Cuarta infracción |
+|-----------|-------------------|-------------------|-------------------|-------------------|
+| **Leve** | Advertencia verbal o escrita | Suspensión de 1-2 actividades o servicio comunitario (5-10h) | Suspensión de 2-4 actividades o desafectación de 1-7 días | Recategorización como infracción grave |
+| **Grave** | Suspensión de 2-4 actividades o desafectación de 7-15 días | Desafectación de 15-30 días | Desafectación de 30-60 días | Recategorización como infracción muy grave |
+| **Muy Grave** | Desafectación de 30-90 días | Desafectación de 90-180 días o expulsión temporal (6-12 meses) | Expulsión (mínimo 1 año) | Expulsión definitiva |
+
+*Nota: Esta tabla es orientativa. El Comité de Disciplina podrá ajustar las sanciones considerando atenuantes, agravantes y el contexto específico de cada caso.*
+
 ### Consideraciones sobre Reincidencia y Prescripción
 
 #### Reincidencia
@@ -229,7 +242,7 @@ Se considera reincidencia la comisión de una nueva infracción de la misma cate
 * Todas las infracciones se registrarán en la ficha individual disciplinaria del miembro.
 * Una vez transcurrido el plazo de prescripción, la infracción ya no se considerará para determinar reincidencia, pero permanecerá en el historial a efectos estadísticos con una marca de "prescrita".
 * El historial disciplinario completo se conservará durante 5 años, tras los cuales las infracciones prescritas serán eliminadas del registro.
-* Las infracciones que hayan derivado en desafectación prolongada o expulsión, se mantendrán en el registro por 5 años desde la fecha de reincorporación al club.
+* Las infracciones que hayan derivado en desafectación prolongada (más de 60 días) o expulsión, se mantendrán en el registro por 5 años desde la fecha de reincorporación al club.
 
 #### Atenuantes por Buena Conducta
 * Si un miembro no comete ninguna infracción durante un período continuo de:
@@ -238,6 +251,25 @@ Se considera reincidencia la comisión de una nueva infracción de la misma cate
   * 24 meses: Los plazos de prescripción de sus infracciones muy graves anteriores se reducirán a la mitad.
 * La reducción del plazo de prescripción por buena conducta se aplicará una sola vez por cada infracción.
 
+#### Agravantes y Atenuantes
+Al determinar la sanción específica dentro de los rangos establecidos, el Comité de Disciplina considerará:
+
+**Agravantes:**
+* Reincidencia previa, aunque las infracciones anteriores hayan prescrito
+* Premeditación o planificación
+* Abuso de posición de confianza o autoridad
+* Involucramiento de menores de edad
+* Negativa a reconocer la infracción o a cooperar con la investigación
+* Impacto negativo significativo en la imagen del club
+
+**Atenuantes:**
+* Reconocimiento inmediato de la infracción
+* Disculpa espontánea y sincera
+* Reparación voluntaria del daño causado
+* Ausencia de antecedentes disciplinarios
+* Circunstancias personales excepcionales
+* Cooperación plena con la investigación
+
 #### Interrupción de la Prescripción
 * El plazo de prescripción se interrumpe cuando se inicia un nuevo procedimiento disciplinario contra el miembro.
 * Si el procedimiento concluye sin sanción, el plazo de prescripción continuará contando desde donde se interrumpió.
@@ -245,87 +277,117 @@ Se considera reincidencia la comisión de una nueva infracción de la misma cate
 #### Rehabilitación del Historial
 * Cualquier miembro puede solicitar formalmente la revisión de su historial disciplinario tras dos años consecutivos sin infracciones.
 * La Comisión Directiva, previo informe favorable del Comité de Disciplina, podrá determinar la "rehabilitación" del miembro, eliminando las infracciones leves y graves de su historial a efectos de reincidencia.
+* Las infracciones muy graves no podrán ser eliminadas mediante este procedimiento, pero podrán ser marcadas como "rehabilitadas", lo que se considerará como atenuante en caso de nuevas infracciones.
+
+#### Recategorización de Infracciones
+
+La recategorización de infracciones a una categoría superior (de leve a grave, o de grave a muy grave) podrá ocurrir en las siguientes circunstancias:
+
+1. **Por acumulación:** Según lo establecido en la sección de "Acumulación de Infracciones".
+
+2. **Por reincidencia continuada:** 
+   * La cuarta infracción leve del mismo tipo en un período de 18 meses.
+   * La cuarta infracción grave del mismo tipo en un período de 24 meses.
+
+3. **Por agravantes significativos:** Cuando en una infracción concurran tres o más circunstancias agravantes, el Comité de Disciplina podrá recategorizarla al siguiente nivel de gravedad. Esta decisión deberá ser especialmente motivada y requerirá unanimidad de los miembros del Comité.
+
+4. **Por consecuencias imprevistas:** Cuando una infracción que inicialmente parecía de menor gravedad acabe teniendo consecuencias más graves (por ejemplo, una falta de respeto que derive en un conflicto mayor o daños materiales leves que afecten al funcionamiento del club).
+
+La recategorización deberá ser notificada al infractor con una explicación detallada de los motivos. En caso de recategorización, se aplicarán las sanciones correspondientes a la nueva categoría, considerando como atenuante que originalmente la infracción era de menor gravedad.
+
+#### Degradación de Infracciones
+
+En casos excepcionales, una infracción podrá ser categorizada en un nivel inferior al que inicialmente correspondería cuando concurran al menos tres circunstancias atenuantes significativas y ningún agravante. Esta decisión también deberá ser unánime por parte del Comité de Disciplina y debidamente motivada.
 
 ### Infracciones Específicas y sus Sanciones
 
 #### Infracciones Muy Graves
 
-##### 1. Actos de violencia o agresión física
-* **Descripción:** Participación en peleas o agresiones físicas contra otros miembros del club, árbitros, rivales o espectadores.
-* **Primera infracción:** Desafectación inmediata de todas las actividades por un período de 30 a 60 días, según la gravedad de la agresión.
-* **Segunda infracción:** Expulsión del club por un período mínimo de 1 año, con posibilidad de readmisión sujeta a evaluación de la Comisión Directiva.
-* **Nota:** En caso de lesiones, el responsable deberá cubrir los gastos médicos ocasionados. Si la gravedad del incidente lo amerita, incluso la primera infracción puede resultar en expulsión directa.
+##### 1. Actos de violencia o agresión física fuera del campo de juego
+* **Descripción:** Participación en peleas o agresiones físicas contra otros miembros del club, árbitros, rivales o espectadores fuera del contexto del juego.
+* **Primera infracción:** Desafectación inmediata de todas las actividades por un período de 30 a 90 días, según la gravedad de la agresión.
+* **Segunda infracción:** Desafectación de 90 a 180 días o expulsión temporal por un período de 6 a 12 meses, según la gravedad.
+* **Tercera infracción:** Expulsión del club por un período mínimo de 1 año, con posibilidad de readmisión sujeta a evaluación de la Comisión Directiva.
+* **Nota:** En caso de lesiones graves o agresiones premeditadas, incluso la primera infracción puede resultar en expulsión directa.
 
-##### 2. Consumo de sustancias prohibidas
+##### 2. Conducta antideportiva grave durante el juego
+* **Descripción:** Acciones violentas dentro del campo de juego que exceden claramente el marco reglamentario del rugby y representan un comportamiento contrario al espíritu del deporte (agresiones deliberadas, juego peligroso con intención de dañar).
+* **Primera infracción:** Suspensión de 2 a 4 partidos y obligación de cumplir el rol de aguatero/auxiliar durante ese período.
+* **Segunda infracción:** Desafectación de todas las actividades por 15 a 30 días.
+* **Tercera infracción:** Desafectación de 30 a 90 días.
+* **Nota:** Esta sanción es complementaria a cualquier suspensión impuesta por la unión o federación correspondiente.
+
+##### 3. Consumo de sustancias prohibidas
 * **Descripción:** Consumir, portar o distribuir sustancias ilegales durante entrenamientos, partidos o cualquier actividad del club.
-* **Primera infracción:** Desafectación de todas las actividades por 15 días.
-* **Segunda infracción:** Desafectación de todas las actividades por 90 días y obligación de asistir a charlas de concientización.
+* **Primera infracción:** Desafectación de todas las actividades por 30 a 60 días y obligación de asistir a charlas de concientización.
+* **Segunda infracción:** Desafectación de todas las actividades por 90 a 180 días y programa obligatorio de concientización.
 * **Tercera infracción:** Expulsión del club por un período mínimo de 1 año, con posibilidad de readmisión sujeta a evaluación de la Comisión Directiva.
 * **Nota:** En caso de distribución de sustancias, incluso en primera infracción, la sanción puede elevarse directamente a expulsión.
 
-##### 3. Introducción de objetos peligrosos
+##### 4. Introducción de objetos peligrosos
 * **Descripción:** Llevar o introducir objetos peligrosos en actividades del equipo o del club.
-* **Primera infracción:** Desafectación inmediata de todas las actividades por un período de 30 a 60 días, según la peligrosidad del objeto.
-* **Segunda infracción:** Expulsión del club por un período mínimo de 1 año, con posibilidad de readmisión sujeta a evaluación.
+* **Primera infracción:** Desafectación inmediata de todas las actividades por un período de 30 a 90 días, según la peligrosidad del objeto.
+* **Segunda infracción:** Desafectación de 90 a 180 días o expulsión temporal por un período de 6 a 12 meses, según la peligrosidad.
+* **Tercera infracción:** Expulsión del club por un período mínimo de 1 año, con posibilidad de readmisión sujeta a evaluación.
 * **Nota:** Si el objeto representa un peligro extremo o existe intención manifiesta de causar daño, incluso la primera infracción puede resultar en expulsión directa.
 
-##### 4. Abuso de autoridad o poder
+##### 5. Abuso de autoridad o poder
 * **Descripción:** Usar una posición de liderazgo para perjudicar a otros miembros del club.
-* **Primera infracción:** Suspensión temporal del cargo de liderazgo por 30 días, advertencia escrita y obligación de disculparse con los afectados.
-* **Segunda infracción:** Suspensión definitiva del cargo de liderazgo y desafectación de todas las actividades del club por 60 días.
+* **Primera infracción:** Suspensión temporal del cargo de liderazgo por 30 a 60 días, advertencia escrita, obligación de disculparse con los afectados y desafectación de 15 a 30 días.
+* **Segunda infracción:** Suspensión definitiva del cargo de liderazgo y desafectación de todas las actividades del club por 60 a 90 días.
 * **Tercera infracción:** Expulsión del club por un período mínimo de 1 año.
 
 #### Infracciones Graves
 
-##### 5. Falta de respeto entre miembros
+##### 6. Falta de respeto entre miembros
 * **Descripción:** Actos de desconsideración o falta de respeto hacia cualquier miembro del club.
-* **Primera infracción:** Advertencia verbal y disculpa formal al afectado en un plazo máximo de 48 horas.
-* **Segunda infracción:** Suspensión de 2 partidos y 10 horas de servicio comunitario en el club.
-* **Tercera infracción:** Desafectación de todas las actividades del club por 30 días.
-* **Cuarta infracción:** Evaluación para posible recategorización como infracción muy grave.
+* **Primera infracción:** Advertencia escrita y disculpa formal al afectado en un plazo máximo de 48 horas.
+* **Segunda infracción:** Suspensión de 2 a 4 partidos o actividades y 10 horas de servicio comunitario en el club.
+* **Tercera infracción:** Desafectación de todas las actividades del club por 15 a 30 días.
+* **Cuarta infracción:** Desafectación por 30 a 60 días o recategorización como infracción muy grave.
 
-##### 6. Desacato a decisiones arbitrales
+##### 7. Desacato a decisiones arbitrales
 * **Descripción:** Protestar de forma irrespetuosa contra los árbitros durante partidos oficiales o amistosos.
-* **Primera infracción:** Advertencia verbal y obligación de disculparse con el árbitro afectado.
-* **Segunda infracción:** Suspensión de 2 partidos y obligación de realizar tareas de apoyo al árbitro en los siguientes 3 entrenamientos.
-* **Tercera infracción:** Desafectación de todas las actividades del club por 30 días.
-* **Cuarta infracción:** Desafectación por 90 días o recategorización como infracción muy grave.
+* **Primera infracción:** Advertencia escrita y obligación de disculparse con el árbitro afectado.
+* **Segunda infracción:** Suspensión de 2 a 4 partidos y obligación de realizar tareas de apoyo al árbitro en los siguientes 3 entrenamientos.
+* **Tercera infracción:** Desafectación de todas las actividades del club por 15 a 30 días.
+* **Cuarta infracción:** Desafectación por 30 a 60 días o recategorización como infracción muy grave.
 
-##### 7. Desobediencia hacia el entrenador o capitán
+##### 8. Desobediencia hacia el entrenador o capitán
 * **Descripción:** No seguir instrucciones directas del entrenador o capitán durante entrenamientos, partidos u otras actividades organizadas específicamente por el equipo.
-* **Primera infracción:** Advertencia verbal y charla con el entrenador o capitán dentro de las 24 horas siguientes.
-* **Segunda infracción:** Suspensión de 1 partido y obligación de mantener una reunión formal con el entrenador y capitán.
-* **Tercera infracción:** Desafectación de todas las actividades del club por 30 días.
-* **Cuarta infracción:** Desafectación por 90 días o recategorización como infracción muy grave.
+* **Primera infracción:** Advertencia escrita y charla con el entrenador o capitán dentro de las 24 horas siguientes.
+* **Segunda infracción:** Suspensión de 2 a 3 partidos y obligación de mantener una reunión formal con el entrenador y capitán.
+* **Tercera infracción:** Desafectación de todas las actividades del club por 15 a 30 días.
+* **Cuarta infracción:** Desafectación por 30 a 60 días o recategorización como infracción muy grave.
 
-##### 8. Abandono de actividades sin previo aviso
+##### 9. Abandono de actividades sin previo aviso
 * **Descripción:** Retirarse de entrenamientos, partidos u otras actividades del equipo sin informar a los responsables.
 * **Primera infracción:** Advertencia escrita explicando la afectación al club, que debe ser respondida en un plazo de 72 horas.
-* **Segunda infracción:** Suspensión de 2 partidos y obligación de ser ayudante en los siguientes 2 entrenamientos.
-* **Tercera infracción:** Desafectación de todas las actividades del club por 30 días.
-* **Cuarta infracción:** Desafectación por 90 días o recategorización como infracción muy grave.
+* **Segunda infracción:** Suspensión de 2 a 3 partidos y obligación de ser ayudante en los siguientes 2 entrenamientos.
+* **Tercera infracción:** Desafectación de todas las actividades del club por 15 a 30 días.
+* **Cuarta infracción:** Desafectación por 30 a 60 días o recategorización como infracción muy grave.
 
-##### 9. Falta de respeto al rival en redes sociales o en partidos
+##### 10. Falta de respeto al rival en redes sociales o en partidos
 * **Descripción:** Emitir comentarios ofensivos hacia equipos rivales o sus miembros a través de cualquier medio.
-* **Primera infracción:** Advertencia verbal, disculpas públicas en el mismo medio en un plazo máximo de 24 horas y eliminación inmediata del contenido ofensivo.
-* **Segunda infracción:** Suspensión de 2 partidos y prohibición de uso de redes sociales en nombre del club por 60 días.
-* **Tercera infracción:** Desafectación de todas las actividades del club por 30 días.
-* **Cuarta infracción:** Desafectación por 90 días o recategorización como infracción muy grave.
+* **Primera infracción:** Advertencia escrita, disculpas públicas en el mismo medio en un plazo máximo de 24 horas y eliminación inmediata del contenido ofensivo.
+* **Segunda infracción:** Suspensión de 2 a 4 partidos y prohibición de uso de redes sociales en nombre del club por 60 días.
+* **Tercera infracción:** Desafectación de todas las actividades del club por 15 a 30 días.
+* **Cuarta infracción:** Desafectación por 30 a 60 días o recategorización como infracción muy grave.
 
 #### Infracciones Leves
 
-##### 10. Falta de cuidado de los materiales e instalaciones
+##### 11. Falta de cuidado de los materiales e instalaciones
 * **Descripción:** Daño o uso indebido de las instalaciones y materiales del club.
 * **Primera infracción:** Reparación o reposición del daño causado en un plazo máximo de 15 días y advertencia verbal.
-* **Segunda infracción:** Reparación o reposición del daño causado y 10 horas de servicio comunitario en el club.
-* **Tercera infracción:** Reparación o reposición del daño causado y desafectación de 1 partido.
+* **Segunda infracción:** Reparación o reposición del daño causado y 5 a 10 horas de servicio comunitario en el club.
+* **Tercera infracción:** Reparación o reposición del daño causado y suspensión de 1 a 2 partidos.
 * **Nota:** Si el daño es intencional o de valor significativo, se recategorizará como infracción grave.
 
-##### 11. Uso inapropiado de tecnología
+##### 12. Uso inapropiado de tecnología
 * **Descripción:** Uso de dispositivos electrónicos en momentos prohibidos durante entrenamientos, partidos u otras actividades del equipo, o grabación no autorizada de miembros del club.
 * **Primera infracción:** Advertencia verbal.
-* **Segunda infracción:** Advertencia escrita y prohibición de llevar dispositivos a las siguientes 3 actividades del equipo.
-* **Tercera infracción:** Desafectación de 1 partido.
+* **Segunda infracción:** Advertencia escrita y prohibición de llevar dispositivos a las siguientes 2 a 3 actividades del equipo.
+* **Tercera infracción:** Suspensión de 1 partido.
 * **Cuarta infracción:** Recategorización como infracción grave.
 
 ## 14. Evaluación de Sanciones
@@ -412,38 +474,30 @@ Es el órgano responsable de investigar las posibles infracciones a las normas d
 * Quienes ocupen cargos incompatibles deberán esperar al menos seis meses después de cesar en sus funciones para poder postularse como miembros del Comité.
 * En caso de renuncia o incapacidad permanente de un miembro titular, asumirá el cargo el suplente con mayor cantidad de votos en la última elección, hasta completar el mandato.
 
-#### Sistema de Elección: Voto Único Transferible (VUT)
+#### Sistema de Elección Simplificado
 
-Para elegir a los miembros del Comité de Disciplina de manera justa y representativa, usaremos un sistema de votación por preferencias, explicado de la siguiente manera:
+Para elegir a los miembros del Comité de Disciplina de manera simple y transparente:
 
 1. **Postulación:**
-   * Cualquier miembro con al menos un año en el club puede presentarse como candidato (siempre que no tenga incompatibilidades).
-   * Las candidaturas se presentan hasta dos semanas antes de la votación.
-   * Cada candidato puede incluir un breve texto explicando por qué quiere formar parte del Comité.
+   * Las candidaturas se presentan hasta una semana antes de la Asamblea.
+   * Cada candidato debe explicar brevemente por qué quiere formar parte del Comité (máximo 5 líneas).
+   * La Comisión Directiva verifica que cumplan los requisitos básicos.
 
-2. **¿Cómo se vota?**
-   * El día de la votación, cada miembro recibe una lista con todos los candidatos.
-   * Cada miembro numera los candidatos según su preferencia: 1 para su favorito, 2 para el segundo, y así sucesivamente.
-   * No es obligatorio numerar todos los candidatos, pero cuantas más preferencias indiques, mejor funciona el sistema.
+2. **Votación:**
+   * Cada miembro con derecho a voto recibe una papeleta donde anota tres nombres distintos.
+   * No es obligatorio completar los tres votos.
+   * La votación es secreta.
 
-3. **¿Cómo se cuentan los votos?**
-   * Primero contamos solo los "1" (primera preferencia) de cada candidato.
-   * Los candidatos que alcancen cierto número mínimo de votos son elegidos directamente.
-   * Si un candidato recibe muchos más votos de los necesarios, los "votos extra" no se desperdician: se reparten entre las segundas opciones de esas papeletas.
-   * Si después de esto todavía faltan puestos por llenar, eliminamos al candidato con menos votos y repartimos sus votos a las siguientes preferencias señaladas en esas papeletas.
-   * Este proceso se repite hasta completar todos los puestos necesarios.
+3. **Resultados:**
+   * Los tres candidatos más votados son elegidos como miembros titulares.
+   * El cuarto y quinto lugar son designados como suplentes.
+   * En caso de empate, se define por antigüedad en el club.
 
-4. **En caso de empate:**
-   * Si hay empate, miramos quién tiene más preferencias en total (sumando primeras, segundas, etc.).
-   * Si sigue habiendo empate, gana el candidato con más tiempo en el club.
-   * Si todavía hay empate, se decide por sorteo en el momento.
+4. **Transparencia:**
+   * El conteo se realiza en el momento, abiertamente frente a la Asamblea.
+   * Los resultados quedan registrados en el acta.
 
-5. **Transparencia:**
-   * Los resultados detallados se publicarán para que todos puedan verificarlos.
-   * Tres miembros que no sean candidatos supervisarán el proceso.
-   * Se guardarán todas las papeletas durante un mes por si hubiera alguna duda.
-
-Este sistema permite que el Comité refleje mejor las distintas opiniones dentro del club, evitando que un solo grupo acapare todas las posiciones y asegurando que los elegidos tengan amplio respaldo.
+Este sistema sencillo asegura la representatividad sin complicaciones procedimentales innecesarias.
 
 #### Funciones
 * Investigar posibles infracciones al reglamento, ya sea actuando de oficio o por denuncia recibida.
@@ -454,43 +508,15 @@ Este sistema permite que el Comité refleje mejor las distintas opiniones dentro
 * Notificar las decisiones tomadas a la Comisión Directiva para su aplicación.
 * Documentar todo el proceso de manera detallada y transparente.
 
-#### Procedimiento
-* Las denuncias deben presentarse por escrito al Comité en un plazo máximo de 7 días después del incidente.
-* El Comité puede actuar de oficio ante infracciones evidentes, iniciando el proceso dentro de las 48 horas siguientes al conocimiento del hecho.
-* Se notificará a la persona investigada sobre el proceso iniciado en un plazo máximo de 3 días hábiles tras la recepción de la denuncia o inicio de oficio.
-* El período de investigación no excederá los 14 días naturales, salvo casos de especial complejidad.
-* Se recopilará toda la evidencia necesaria para evaluar el caso, debiendo documentar cada testimonio y prueba obtenida.
-* Se otorgará a la persona investigada un plazo de 5 días hábiles para presentar su versión y aportar pruebas.
-* Una vez completada la investigación, el Comité deliberará y dictará la sanción que corresponda en un plazo máximo de 5 días hábiles.
-* Las decisiones se tomarán por mayoría simple de los tres miembros, debiendo estar todos presentes para la deliberación final.
-* La decisión será comunicada formalmente a la Comisión Directiva dentro de las 24 horas siguientes a su adopción.
-* Toda resolución disciplinaria dictada por el Comité deberá ser registrada en un acta oficial (implementada en la práctica mediante una planilla de cálculo de Google Sheets o cualquier otro medio adecuado que garantice su conservación y accesibilidad) en un plazo máximo de 2 días desde su adopción.
-* El acta deberá incluir como mínimo: fecha, identificación del caso, miembros del Comité presentes, descripción de la infracción, normas aplicables, pruebas consideradas, decisión adoptada y firma digital o física de los miembros.
-
-#### Procedimiento de Abstención y Suplencia
-
-Cuando un miembro del Comité de Disciplina deba abstenerse de participar en un caso o se encuentre imposibilitado para hacerlo:
-
-1. **Causales de abstención obligatoria:**
-   * Relación de parentesco hasta el segundo grado con alguna de las partes involucradas.
-   * Amistad íntima o enemistad manifiesta con alguna de las partes.
-   * Interés directo o indirecto en el asunto.
-   * Haber participado en los hechos objeto de investigación.
-   * Haber emitido opinión pública sobre el caso antes de su conocimiento formal.
-
-2. **Procedimiento de abstención:**
-   * El miembro que se encuentre en alguna de las causales deberá comunicarlo por escrito a los demás miembros del Comité tan pronto tenga conocimiento del caso.
-   * Si un miembro no se abstiene voluntariamente estando en causal, cualquier parte interesada podrá solicitar su recusación, presentando las pruebas correspondientes.
-   * La recusación será resuelta por los otros miembros titulares en un plazo de 48 horas.
-
-3. **Sistema de suplencias:**
-   * Cuando un titular se abstenga o sea recusado, asumirá automáticamente el primer suplente.
-   * Si más de un titular debe abstenerse, asumirán los suplentes en el orden determinado por la cantidad de votos obtenidos en su elección.
-   * En el improbable caso de que todos los miembros (titulares y suplentes) deban abstenerse, se conformará un Comité ad hoc compuesto por tres miembros del club con más de dos años de antigüedad, designados por sorteo entre quienes no tengan incompatibilidad con el caso.
-
-4. **Registro de abstenciones:**
-   * Toda abstención o recusación quedará documentada en el registro de actuaciones del Comité.
-   * Se especificarán los motivos y el miembro suplente que asumió en reemplazo.
+#### Procedimiento Simplificado
+* Las denuncias pueden presentarse verbalmente a cualquier miembro del Comité, quien la formalizará por escrito.
+* El Comité puede actuar de oficio al tomar conocimiento de una posible infracción.
+* Se notificará a la persona investigada sobre el proceso por el medio más directo disponible (mensaje, llamada o personalmente).
+* El proceso de investigación será ágil, buscando resolverse en un plazo no mayor a 7 días para casos simples.
+* La persona investigada tendrá oportunidad de dar su versión de los hechos, verbalmente o por escrito.
+* Las reuniones del Comité pueden realizarse de manera presencial o virtual según convenga.
+* El Comité comunicará su decisión a la Comisión Directiva de manera concisa y directa.
+* La documentación se mantendrá lo más simple posible, priorizando la agilidad del proceso.
 
 ### 16.2 Comisión Directiva
 
@@ -551,33 +577,27 @@ Es el órgano encargado de revisar las apelaciones contra las decisiones discipl
 * Anualmente se evaluará la efectividad del sistema disciplinario y se propondrán mejoras si fuera necesario.
 * Ninguna sanción podrá contravenir la legislación vigente o los derechos fundamentales de las personas.
 
-### 16.5 Sistema de Documentación y Registro
+### 16.5 Sistema de Documentación y Registro Simplificado
 
-El sistema de documentación busca ser simple pero efectivo, asegurando transparencia sin generar burocracia excesiva:
+Para reducir la burocracia innecesaria, se implementa un sistema práctico y funcional:
 
-1. **Registro básico:**
-   * Se mantendrá un archivo digital único con las sanciones y casos disciplinarios.
-   * Se utilizará una planilla simple (hoja de cálculo) compartida entre el Comité de Disciplina y la Comisión Directiva.
-   * Cada caso se registrará con: fecha, nombre del involucrado, descripción breve, sanción aplicada y estado (pendiente, cumplida, apelada).
+1. **Registro digital básico:**
+   * Se utilizará una planilla única (tipo Google Sheets) con acceso compartido.
+   * Se registrará solo la información esencial: fecha, nombre, tipo de infracción, sanción, estado.
+   * Las evidencias se almacenarán en una carpeta digital, conservando solo lo indispensable.
 
-2. **Responsable del registro:**
-   * Un miembro del Comité de Disciplina será designado como encargado del registro.
-   * En caso de ausencia, cualquier otro miembro del Comité podrá actualizar el registro.
+2. **Notificaciones:**
+   * Se priorizarán las notificaciones verbales directas, complementadas con un mensaje escrito cuando sea necesario.
+   * No se requerirán formatos especiales para comunicaciones internas del Comité.
 
-3. **Respaldo de evidencias:**
-   * Solo se guardarán las evidencias esenciales (capturas de pantalla, testimonios escritos).
-   * Los documentos se guardarán en una carpeta compartida en la nube.
-   * Se organizarán por año y apellido del involucrado.
+3. **Reuniones:**
+   * Las reuniones del Comité serán breves y enfocadas en resolver los casos.
+   * Se pueden realizar por videollamada o presencialmente, según convenga.
+   * No se requerirán actas extensas, solo registro de decisiones.
 
-4. **Preservación de la privacidad:**
-   * El acceso al registro será exclusivo para miembros del Comité de Disciplina y la Comisión Directiva.
-   * No se compartirán detalles de casos individuales en grupos generales del club.
-
-5. **Transición simplificada:**
-   * Al renovarse los miembros del Comité, el encargado del registro compartirá los accesos con los nuevos miembros.
-   * Se realizará una sesión breve para explicar la organización del sistema.
-
-Este sistema simplificado mantiene lo esencial para asegurar transparencia y seguimiento, sin crear cargas administrativas excesivas para un club deportivo amateur.
+4. **Informes:**
+   * La Comisión Directiva recibirá informes mensuales resumidos de la actividad disciplinaria.
+   * Estos informes contendrán solo información estadística y casos pendientes.
 
 ## 17. Protocolos de Comunicación Oficial
 
@@ -627,50 +647,33 @@ Para mantener un ambiente saludable y respetuoso en las comunicaciones oficiales
 
 ### 17.3 Infracciones en Comunicaciones Digitales
 
-1. **Detección y reporte de infracciones:**
-   * Cualquier miembro del club puede reportar infracciones cometidas en los canales oficiales de comunicación.
-   * El reporte debe realizarse mediante mensaje privado a los administradores del grupo o a cualquier miembro del Comité de Disciplina.
-   * Los administradores de grupos digitales están facultados para tomar capturas de pantalla como evidencia antes de que un mensaje inapropiado pueda ser eliminado por su autor.
+1. **Proceso simplificado:**
+   * Las infracciones leves en comunicaciones digitales serán manejadas directamente por los administradores del grupo con una advertencia privada.
+   * Solo se elevarán al Comité de Disciplina casos recurrentes o graves.
+   * Para documentar: una simple captura de pantalla con fecha es suficiente.
 
-2. **Documentación específica:**
-   * Las infracciones en comunicaciones digitales deben documentarse mediante:
-     * Capturas de pantalla del mensaje inapropiado
-     * Registro de fecha y hora del mensaje
-     * Contexto de la conversación
-     * Identificación clara del autor
-   * Esta documentación será remitida al Comité de Disciplina en un plazo no mayor a 48 horas.
-
-3. **Procedimiento abreviado para infracciones leves:**
-   * Para infracciones leves en comunicaciones digitales, los administradores del grupo podrán:
-     * Enviar una advertencia privada al autor
-     * Solicitar la rectificación o eliminación del mensaje inapropiado
-     * Registrar el incidente para futuras referencias
-   * Si la persona acata la advertencia, no será necesario elevar el caso al Comité de Disciplina.
-
-4. **Medidas inmediatas:**
+2. **Medidas inmediatas:**
    * En caso de infracciones graves o muy graves en las comunicaciones, los administradores podrán:
      * Eliminar el mensaje inapropiado
-     * Restringir temporalmente la capacidad de enviar mensajes (máximo 24 horas)
-     * Notificar inmediatamente al Comité de Disciplina
-   * Estas medidas inmediatas no sustituyen el proceso disciplinario formal, sino que son preventivas.
+     * Silenciar temporalmente al miembro (máximo 24 horas)
+     * Notificar al Comité de Disciplina solo en casos serios o recurrentes
+   * Estas medidas preventivas no requieren documentación formal para implementarse.
 
-5. **Proporcionalidad:**
-   * La evaluación de la gravedad de las infracciones en comunicaciones digitales considerará:
+3. **Evaluación rápida:**
+   * Para determinar la gravedad, se considerará principalmente:
      * El contenido del mensaje
-     * Su alcance (grupo completo o mensaje privado)
-     * La intencionalidad
-     * La reincidencia
-     * El daño potencial a la imagen del club o a otros miembros
+     * Si es un caso recurrente
+     * El impacto potencial en el club
 
 ### 17.4 Ausencias y Notificaciones
 
-* Toda ausencia a entrenamientos, partidos o actividades del club debe ser notificada:
-  * Con la mayor anticipación posible
-  * A través de uno de los canales oficiales o directamente al responsable del equipo
-  * Indicando motivo y duración de la ausencia, cuando sea posible
-* Las ausencias no notificadas serán registradas y podrán ser consideradas al evaluar la participación del miembro en las actividades del club.
+* Para notificar ausencias, basta con un mensaje simple:
+  * Al capitán, entrenador o manager
+  * Preferiblemente con anticipación
+  * Indicando motivo básico (si se quiere compartir)
+* Las ausencias reiteradas sin aviso se considerarán en la evaluación de participación.
 
-Este protocolo busca unificar las comunicaciones del club, evitando malentendidos y asegurando que todos los miembros tengan acceso a la información oficial por canales claramente definidos.
+Este sistema de comunicación simplificado mantiene el orden necesario sin crear procesos innecesariamente complejos.
 
 ## 18. Procedimientos Especiales para Infracciones Cometidas por Dirigentes
 
@@ -766,12 +769,87 @@ En todo momento, recordamos que somos un club de rugby y nos regimos por los val
 
 Ninguna disposición de este reglamento puede interpretarse de manera que contravenga estos valores fundamentales.
 
+## 20. Infracciones que Pueden Constituir Delitos
+
+### 20.1 Principios Generales
+
+El club reconoce que ciertas infracciones muy graves pueden constituir también delitos según la legislación vigente. En estos casos:
+
+* La jurisdicción disciplinaria del club es independiente y compatible con la jurisdicción penal.
+* Las sanciones disciplinarias no eximen de posibles responsabilidades penales.
+* El club no actuará como obstáculo para la acción de la justicia ordinaria.
+
+### 20.2 Tipos de Infracciones que Pueden Constituir Delitos
+
+Entre las infracciones que potencialmente pueden constituir delitos se incluyen, pero no se limitan a:
+
+* Agresiones físicas graves que provoquen lesiones
+* Abuso sexual o acoso
+* Robos o daños materiales significativos
+* Amenazas graves
+* Actos discriminatorios graves basados en raza, sexo, religión, orientación sexual u otras categorías protegidas
+* Falsificación de documentos del club
+
+### 20.3 Procedimiento en Caso de Posible Delito
+
+1. **Denuncia:**
+   * Cualquier miembro que tenga conocimiento de hechos que puedan constituir delito debe ponerlo en conocimiento del Comité de Disciplina de inmediato.
+   * El comité evaluará la gravedad y credibilidad inicial de los hechos relatados.
+
+2. **Medidas inmediatas:**
+   * En casos graves, el Comité podrá recomendar a la Comisión Directiva la suspensión cautelar del presunto infractor mientras se desarrollan las investigaciones.
+   * Esta medida preventiva no implica presunción de culpabilidad.
+
+3. **Deber de denuncia:**
+   * Cuando los hechos sean de gravedad y existan indicios fundados, el club, a través de sus representantes legales, pondrá los hechos en conocimiento de las autoridades competentes.
+   * En casos de menores de edad, este deber de denuncia es obligatorio e inmediato.
+
+4. **Procedimiento disciplinario paralelo:**
+   * El procedimiento disciplinario interno continuará su curso independientemente de la existencia de un proceso penal.
+   * No obstante, el Comité de Disciplina podrá suspender temporalmente su decisión final hasta conocer la resolución judicial, especialmente cuando la determinación de los hechos dependa sustancialmente de esta.
+
+5. **Información a la víctima:**
+   * Se informará a la presunta víctima sobre su derecho a denunciar penalmente los hechos.
+   * El club facilitará información sobre recursos públicos de asistencia.
+
+### 20.4 Relación con el Proceso Penal
+
+1. **Independencia y coordinación:**
+   * La existencia de un proceso penal no impide que el club imponga sanciones disciplinarias.
+   * Sin embargo, el club reconocerá como hechos probados aquellos que hayan sido determinados por resolución judicial firme.
+
+2. **Revisión de sanciones:**
+   * Una sentencia absolutoria firme no implica automáticamente la anulación de sanciones disciplinarias, pues los estándares de prueba y los bienes jurídicos protegidos son diferentes.
+   * No obstante, la persona sancionada podrá solicitar la revisión de la sanción disciplinaria basándose en hechos declarados probados en la sentencia penal.
+
+3. **Colaboración con la justicia:**
+   * El club colaborará activamente con las autoridades judiciales proporcionando la información requerida.
+   * Se guardará estricta confidencialidad sobre las investigaciones penales en curso.
+
+### 20.5 Protección de Víctimas y Testigos
+
+1. **Protección de víctimas:**
+   * Se adoptarán medidas para evitar el contacto entre presunta víctima y presunto agresor durante actividades del club.
+   * Se garantizará la confidencialidad de la identidad de la víctima, dentro del marco legal.
+
+2. **Protección contra represalias:**
+   * Se prohibirán y sancionarán las represalias contra personas que hayan denunciado infracciones o colaborado en investigaciones.
+   * Estas represalias constituirán por sí mismas infracciones muy graves.
+
+### 20.6 Rehabilitación
+
+En caso de que un miembro haya sido sancionado por el club por conductas que también constituyeron delito:
+
+* Su reintegración al club tras cumplir la sanción penal y disciplinaria podrá estar sujeta a condiciones adicionales.
+* La Comisión Directiva, con informe previo del Comité de Disciplina, podrá establecer un plan de reintegración progresiva.
+* En casos de extrema gravedad, la expulsión puede ser definitiva sin posibilidad de readmisión.
+
 ---
 
 *Documento aprobado por la Asamblea General de Ruda Macho Rugby el [FECHA].*
 
 *Entrará en vigencia a partir del [FECHA].*
 
- 
+---
 
 
