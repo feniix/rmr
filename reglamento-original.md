@@ -12,7 +12,9 @@
 8. NORMAS PARA ENTRENADORES Y MANAGERS  
 9. NORMAS PARA DIRIGENTES  
 10. NORMAS PARA EX-JUGADORES  
-11. FALTAS Y SANCIONES
+11. FALTAS Y SANCIONES  
+12. EVALUACIÓN DE SANCIONES  
+13. PROCESO DE APELACIÓN POR SANCIÓN
 
 ---
 
@@ -106,10 +108,6 @@ Cada ex-jugador tiene la responsabilidad de cuidar la imagen del club en cualqui
 
 ---
 
-### 
-
-### 
-
 ### **FALTAS Y SANCIONES**
 
 1. **Consumo de sustancias prohibidas**  
@@ -167,13 +165,13 @@ Cada ex-jugador tiene la responsabilidad de cuidar la imagen del club en cualqui
 
 ---
 
-### **Evaluación de Sanciones**
+### **EVALUACIÓN DE SANCIONES**
 
 Cada caso será revisado por el Comité de Disciplina del club. El comité evaluará la gravedad de la falta y determinará la sanción correspondiente, teniendo en cuenta el historial del jugador y el contexto de la infracción.
 
 ---
 
-**Proceso de Apelación por Sanción**
+### **PROCESO DE APELACIÓN POR SANCIÓN**
 
 **Objetivo: Asegurar un proceso justo y transparente para que los miembros puedan apelar sanciones que consideren injustas.**
 
