@@ -53,6 +53,12 @@ Los miembros del club, sin importar su rol, deberán:
 * No consumir alcohol ni fumar dentro del espacio de entrenamiento ni en los predios de clubes a visitar (excepto en el tercer tiempo).  
 * Respetar siempre los fallos de los árbitros y las decisiones de entrenadores y managers.
 
+**Diferenciación entre Actividades del Club y Actividades del Equipo:**
+
+* **Actividades del Club:** Son aquellas organizadas por la Comisión Directiva o sus delegados, que involucran a todos o gran parte de los miembros del club, independientemente del equipo al que pertenezcan. Incluyen asambleas, reuniones institucionales, eventos sociales, celebraciones, campañas de recaudación de fondos, voluntariados, actividades comunitarias y cualquier otra actividad que represente al club como institución. Es importante destacar que todas las actividades del equipo se consideran actividades del club, pero no todas las actividades del club son necesariamente actividades del equipo.
+
+* **Actividades del Equipo:** Son aquellas específicas de cada equipo de juego, organizadas y supervisadas por los entrenadores y managers correspondientes. Incluyen entrenamientos, partidos (oficiales y amistosos), concentraciones previas a competencias, viajes para disputar partidos, análisis de video y sesiones tácticas, y terceros tiempos. Se limitan a los jugadores inscritos en el equipo y al staff técnico designado. Estas siempre son consideradas actividades del club, ya que representan a la institución.
+
 ---
 
 ### **MECANISMOS PARA FOMENTAR Y EDUCAR A LOS NUEVOS JUGADORES DEL CLUB**
@@ -174,55 +180,66 @@ Cada ex-jugador tiene la responsabilidad de cuidar la imagen del club en cualqui
 ### **FALTAS Y SANCIONES**
 
 1. **Consumo de sustancias prohibidas**  
-   *Descripción:* Consumir, portar o distribuir sustancias ilegales durante entrenamientos, partidos o eventos oficiales del club.  
+   *Descripción:* Consumir, portar o distribuir sustancias ilegales durante entrenamientos, partidos o cualquier actividad del club.  
    *Primera infracción:* Advertencia verbal.  
-   *Segunda infracción:* Colaborar como aguatero en el siguiente partido.  
-   *Tercera infracción:* Expulsión del club.  
+   *Segunda infracción:* Suspensión de 3 partidos y obligación de colaborar con el manager y/o entrenador como sea necesario en los siguientes 2 partidos.  
+   *Tercera infracción:* Expulsión del club por un período mínimo de 1 año, con posibilidad de readmisión sujeta a evaluación de la Comisión Directiva.  
+
 2. **Actos de violencia o agresión física**  
-   *Descripción:* Participación en peleas o agresiones físicas contra otros miembros del club.  
-   *Consecuencia:* Expulsión inmediata del club.  
+   *Descripción:* Participación en peleas o agresiones físicas contra otros miembros del club, árbitros, rivales o espectadores.  
+   *Consecuencia:* Suspensión inmediata de todas las actividades por un mínimo de 30 días. Según la gravedad, puede derivar en expulsión del club. En caso de lesiones, el responsable deberá cubrir los gastos médicos ocasionados.  
+
 3. **Falta de respeto entre miembros**  
    *Descripción:* Actos de desconsideración o falta de respeto hacia cualquier miembro del club.  
-   *Primera infracción:* Advertencia verbal.  
-   *Segunda infracción:* Ayudante en entrenamientos.  
-   *Tercera infracción:* Suspensión temporal de entrenamientos y partidos.  
+   *Primera infracción:* Advertencia verbal y disculpa formal al afectado en un plazo máximo de 48 horas.  
+   *Segunda infracción:* Suspensión de 1 partido y obligación de ser ayudante en 2 entrenamientos consecutivos.  
+   *Tercera infracción:* Suspensión temporal de 30 días de entrenamientos y partidos.  
+
 4. **Falta de cuidado de los materiales e instalaciones**  
    *Descripción:* Daño o uso indebido de las instalaciones y materiales del club.  
-   *Consecuencia:* Sanción determinada por el Comité de Disciplina.  
+   *Consecuencia:* Reparación o reposición del daño causado en un plazo máximo de 15 días. Adicionalmente, según la gravedad y la intencionalidad, el Comité de Disciplina puede imponer sanciones que van desde servicio comunitario en el club (5 a 20 horas) hasta suspensiones temporales.  
+
 5. **Abandono de actividades sin previo aviso**  
-   *Descripción:* Retirarse de entrenamientos o partidos sin informar a los responsables.  
-   *Primera infracción:* Advertencia escrita explicando la afectación al club.  
-   *Segunda infracción:* Ser ayudante en los entrenamientos.  
-   *Tercera infracción:* Evaluación para la expulsión del club.  
+   *Descripción:* Retirarse de entrenamientos, partidos u otras actividades del equipo sin informar a los responsables.  
+   *Primera infracción:* Advertencia escrita explicando la afectación al club, que debe ser respondida en un plazo de 72 horas.  
+   *Segunda infracción:* Suspensión de 1 partido y obligación de ser ayudante en los siguientes 2 entrenamientos.  
+   *Tercera infracción:* Suspensión por 45 días de todas las actividades del club y evaluación para posible expulsión.  
+
 6. **Desacato a decisiones arbitrales**  
-   *Descripción:* Protestar de forma irrespetuosa contra los árbitros.  
-   *Primera infracción:* Advertencia verbal.  
-   *Segunda infracción:* Ayudante en entrenamientos.  
-   *Tercera infracción:* Expulsión del club.  
+   *Descripción:* Protestar de forma irrespetuosa contra los árbitros durante partidos oficiales o amistosos.  
+   *Primera infracción:* Advertencia verbal y obligación de disculparse con el árbitro afectado.  
+   *Segunda infracción:* Suspensión de 2 partidos y obligación de realizar tareas de apoyo al árbitro en los siguientes 3 entrenamientos.  
+   *Tercera infracción:* Suspensión por 60 días de todas las actividades del club.
+   *Cuarta infracción:* Expulsión del club.  
+
 7. **Desobediencia hacia el entrenador o capitán**  
-   *Descripción:* No seguir instrucciones directas durante las actividades del club.  
-   *Primera infracción:* Advertencia verbal.  
-   *Segunda infracción:* Advertencia escrita y charla con el entrenador o capitán.  
-   *Tercera infracción:* Suspensión temporal de entrenamientos y partidos.  
+   *Descripción:* No seguir instrucciones directas del entrenador o capitán durante entrenamientos, partidos u otras actividades organizadas específicamente por el equipo.  
+   *Primera infracción:* Advertencia verbal y charla con el entrenador o capitán dentro de las 24 horas siguientes.  
+   *Segunda infracción:* Advertencia escrita, suspensión de 1 entrenamiento y obligación de mantener una reunión formal con el entrenador y capitán.  
+   *Tercera infracción:* Suspensión temporal de 21 días de entrenamientos y partidos.  
+
 8. **Introducción de objetos peligrosos**  
-   *Descripción:* Llevar o introducir objetos peligrosos en actividades del club.  
-   *Primera infracción:* Suspensión inmediata de todas las actividades del club.  
-   *Segunda infracción:* Expulsión definitiva y notificación a las autoridades si corresponde.  
+   *Descripción:* Llevar o introducir objetos peligrosos en actividades del equipo o del club.  
+   *Primera infracción:* Suspensión inmediata de todas las actividades por un período de 15 a 30 días, según la peligrosidad del objeto.  
+   *Segunda infracción:* Expulsión definitiva del club y, si corresponde por la gravedad, notificación a las autoridades competentes en un plazo de 24 horas.  
+
 9. **Abuso de autoridad o poder**  
    *Descripción:* Usar una posición de liderazgo para perjudicar a otros miembros del club.  
-   *Primera infracción:* Advertencia escrita y evaluación de desempeño.  
-   *Segunda infracción:* Suspensión de funciones de liderazgo y actividades del club.  
-   *Tercera infracción:* Expulsión del club.  
+   *Primera infracción:* Advertencia escrita, suspensión temporal del cargo de liderazgo por 15 días y evaluación de desempeño.  
+   *Segunda infracción:* Suspensión definitiva del cargo de liderazgo y suspensión de actividades del club por 30 días.  
+   *Tercera infracción:* Expulsión del club por un período mínimo de 2 años.  
+
 10. **Falta de respeto al rival en redes sociales o en partidos**  
-    *Descripción:* Emitir comentarios ofensivos hacia equipos rivales.  
-    *Primera infracción:* Advertencia verbal y disculpas públicas.  
-    *Segunda infracción:* Advertencia escrita y suspensión de un partido.  
-    *Tercera infracción:* Suspensión prolongada o expulsión del club.  
+    *Descripción:* Emitir comentarios ofensivos hacia equipos rivales o sus miembros a través de cualquier medio.  
+    *Primera infracción:* Advertencia verbal, disculpas públicas en el mismo medio en un plazo máximo de 24 horas y eliminación inmediata del contenido ofensivo.  
+    *Segunda infracción:* Advertencia escrita, suspensión de 2 partidos y prohibición de uso de redes sociales en nombre del club por 60 días.  
+    *Tercera infracción:* Suspensión por 90 días de todas las actividades del club o, según la gravedad, expulsión del club.  
+
 11. **Uso inapropiado de tecnología**  
-    *Descripción:* Uso de dispositivos electrónicos en momentos inapropiados durante entrenamientos o partidos.  
+    *Descripción:* Uso de dispositivos electrónicos en momentos inapropiados durante entrenamientos, partidos u otras actividades del equipo, o grabación no autorizada de miembros del club.  
     *Primera infracción:* Advertencia verbal.
-    *Segunda infracción:* Advertencia escrita.
-    *Tercera infracción:* Suspensión de un partido.
+    *Segunda infracción:* Advertencia escrita y prohibición de llevar dispositivos a las siguientes 3 actividades del equipo.
+    *Tercera infracción:* Suspensión de 1 partido y 10 horas de servicio comunitario en actividades del club.
 
 ---
 
@@ -231,10 +248,8 @@ Cada ex-jugador tiene la responsabilidad de cuidar la imagen del club en cualqui
 Cada caso será revisado por el Comité de Disciplina del club. El Comité evaluará la gravedad de la falta y determinará la sanción correspondiente, teniendo en cuenta el historial del jugador y el contexto de la infracción.
 
 **Composición del Comité de Disciplina:**
-* Un representante de la dirigencia del club (presidente o vicepresidente).
-* Un representante de los entrenadores.
-* Un representante de los jugadores (capitán del primer equipo o su designado).
-* Un miembro neutral con experiencia en mediación o resolución de conflictos.
+* El Comité de Disciplina está formado por tres (3) miembros del club elegidos democráticamente, tal como se establece en la sección de Órganos Disciplinarios.
+* Por razones de independencia e imparcialidad, no podrán formar parte del Comité: capitanes, subcapitanes, managers, entrenadores ni dirigentes del club.
 
 **Funcionamiento del Comité:**
 * Se reunirá periódicamente y también cuando sea necesario atender casos específicos.
@@ -249,28 +264,32 @@ Cada caso será revisado por el Comité de Disciplina del club. El Comité evalu
 
 **Objetivo: Asegurar un proceso justo y transparente para que los miembros puedan apelar sanciones que consideren injustas.**
 
-1. **Plazo para Apelar: El miembro sancionado tiene 7 días hábiles desde la notificación de la sanción para presentar la apelación. Fuera de este plazo, no se aceptarán apelaciones, salvo excepciones justificadas.**  
-2. **Notificación de la Sanción: La sanción será comunicada por escrito, especificando:**  
-   * **La falta cometida.**  
-   * **La consecuencia impuesta.**  
-   * **El fundamento de la sanción.**  
-   * **El plazo para presentar la apelación.**  
+1. **Plazo para Apelar: El miembro sancionado tiene 5 días hábiles desde la notificación oficial de la sanción para presentar la apelación. Fuera de este plazo, no se aceptarán apelaciones, salvo circunstancias excepcionales debidamente documentadas (hospitalización, viaje inevitable, etc.).**  
+2. **Notificación de la Sanción: La sanción será comunicada por escrito al afectado en un plazo máximo de 3 días hábiles tras la decisión, especificando:**  
+   * **La falta cometida, con referencia específica a la norma infringida.**  
+   * **La consecuencia impuesta y su duración exacta o alcance.**  
+   * **El fundamento detallado de la sanción, incluyendo pruebas consideradas.**  
+   * **El plazo específico para presentar la apelación (fecha límite exacta).**  
+   * **El procedimiento a seguir para formalizar la apelación.**  
 3. **Procedimiento de Apelación:**  
-   * **Solicitud escrita: El miembro deberá enviar una solicitud por escrito al Tribunal de Apelación, explicando los motivos por los cuales considera injusta la sanción.**  
+   * **Solicitud escrita: El miembro deberá enviar una solicitud por escrito al Tribunal de Apelación en un documento formal, explicando los motivos por los cuales considera injusta la sanción.**  
    * **Contenido: La solicitud debe incluir:**  
-     * **Nombre completo del apelante.**  
-     * **Detalles de la sanción.**  
-     * **Motivos de la apelación.**  
-     * **Cualquier prueba o testimonio relevante.**  
-4. **Evaluación de la Apelación: El Tribunal revisará los hechos, pruebas y podrá consultar al miembro informante del Comité de Disciplina. Podrán solicitar más información si es necesario para una decisión justa.**  
-5. **Audiencia (opcional): Si el Tribunal lo considera necesario, se podrá citar al apelante para que presente personalmente sus argumentos.**  
-6. **Decisión Final: Tras evaluar la apelación, el Tribunal tomará una decisión:**  
-   * **Revocar la sanción: Si la sanción fue inapropiada.**  
-   * **Reducir la sanción: Si se considera excesiva.**  
-   * **Confirmar la sanción: Si se justifica la sanción impuesta.**  
-7. **La decisión será notificada por escrito en un plazo de 5 días hábiles.**  
-8. **Resolución Definitiva: La decisión final del Tribunal de Apelación es inapelable dentro del club.**  
-9. **Confidencialidad: El proceso de apelación será confidencial, y solo se revelarán detalles si las partes lo consienten o si lo exige la ley.**
+     * **Nombre completo del apelante y DNI.**  
+     * **Fecha exacta de la notificación de la sanción.**  
+     * **Detalles precisos de la sanción impuesta.**  
+     * **Motivos específicos de la apelación, con argumentos claros.**  
+     * **Cualquier prueba o testimonio relevante no considerado previamente.**  
+     * **Propuesta de resolución alternativa, si la tuviera.**  
+4. **Evaluación de la Apelación: El Tribunal revisará los hechos y pruebas en un plazo máximo de 7 días hábiles. Podrá consultar al miembro informante del Comité de Disciplina dentro de los primeros 3 días de este plazo.**  
+5. **Audiencia (opcional): Si el Tribunal lo considera necesario, convocará al apelante para una audiencia formal dentro de los 5 días posteriores al inicio de la evaluación. Esta audiencia tendrá una duración máxima de 60 minutos.**  
+6. **Decisión Final: Tras evaluar la apelación, el Tribunal tomará una decisión antes de cumplirse 10 días hábiles desde la recepción de la apelación:**  
+   * **Revocar la sanción: Si se determina que fue inapropiada, quedando sin efecto inmediatamente.**  
+   * **Reducir la sanción: Si se considera excesiva, especificando la nueva sanción y su justificación.**  
+   * **Confirmar la sanción: Si se justifica la medida impuesta originalmente.**  
+   * **En casos excepcionales, el Tribunal podrá solicitar una prórroga de hasta 5 días adicionales para su deliberación, informando al apelante.**  
+7. **La decisión será notificada por escrito al apelante en un plazo máximo de 2 días hábiles tras ser tomada.**  
+8. **Resolución Definitiva: La decisión final del Tribunal de Apelación es inapelable dentro del club y debe ser acatada inmediatamente.**  
+9. **Confidencialidad: El proceso de apelación será estrictamente confidencial. Las actas y documentos relacionados solo podrán ser consultados por los miembros del Tribunal, el apelante y, si fuera necesario, asesores legales del club.**
 
 ---
 
@@ -304,15 +323,16 @@ El club cuenta con un sistema disciplinario estructurado que separa las funcione
 * Documentar todo el proceso de manera detallada y transparente.
 
 *Procedimiento:*
-* Las denuncias deben presentarse por escrito al Comité.
-* El Comité puede actuar de oficio ante infracciones evidentes.
-* Se notificará a la persona investigada sobre el proceso iniciado.
-* Se recopilará toda la evidencia necesaria para evaluar el caso.
-* Se otorgará a la persona investigada la oportunidad de presentar su versión.
-* Una vez completada la investigación, el Comité deliberará y dictará la sanción que corresponda.
-* Las decisiones se tomarán por mayoría simple de los tres miembros.
-* La decisión será comunicada formalmente a la Comisión Directiva para su aplicación.
-* Toda resolución disciplinaria dictada por el Comité deberá ser registrada en un acta oficial (implementada en la práctica mediante una planilla de cálculo de Google Sheets o cualquier otro medio adecuado que garantice su conservación y accesibilidad).
+* Las denuncias deben presentarse por escrito al Comité en un plazo máximo de 7 días después del incidente.
+* El Comité puede actuar de oficio ante infracciones evidentes, iniciando el proceso dentro de las 48 horas siguientes al conocimiento del hecho.
+* Se notificará a la persona investigada sobre el proceso iniciado en un plazo máximo de 3 días hábiles tras la recepción de la denuncia o inicio de oficio.
+* El período de investigación no excederá los 14 días naturales, salvo casos de especial complejidad.
+* Se recopilará toda la evidencia necesaria para evaluar el caso, debiendo documentar cada testimonio y prueba obtenida.
+* Se otorgará a la persona investigada un plazo de 5 días hábiles para presentar su versión y aportar pruebas.
+* Una vez completada la investigación, el Comité deliberará y dictará la sanción que corresponda en un plazo máximo de 5 días hábiles.
+* Las decisiones se tomarán por mayoría simple de los tres miembros, debiendo estar todos presentes para la deliberación final.
+* La decisión será comunicada formalmente a la Comisión Directiva dentro de las 24 horas siguientes a su adopción.
+* Toda resolución disciplinaria dictada por el Comité deberá ser registrada en un acta oficial (implementada en la práctica mediante una planilla de cálculo de Google Sheets o cualquier otro medio adecuado que garantice su conservación y accesibilidad) en un plazo máximo de 2 días desde su adopción.
 * El acta deberá incluir como mínimo: fecha, identificación del caso, miembros del Comité presentes, descripción de la infracción, normas aplicables, pruebas consideradas, decisión adoptada y firma digital o física de los miembros.
 
 **2. Comisión Directiva**
@@ -329,14 +349,16 @@ El club cuenta con un sistema disciplinario estructurado que separa las funcione
 * Mantener un registro de las sanciones aplicadas.
 
 *Procedimiento de Revisión:*
-* La Comisión Directiva recibirá el dictamen del Comité de Disciplina con toda la documentación del caso.
-* Evaluará la sanción propuesta en un plazo no mayor a 7 días.
-* En caso de considerar necesaria una modificación, deberá fundamentar por escrito las razones.
-* Comunicará su decisión final tanto al Comité de Disciplina como al miembro sancionado.
-* La decisión final de la Comisión Directiva será de cumplimiento obligatorio.
-* Toda decisión adoptada por la Comisión Directiva en materia disciplinaria deberá ser registrada en un acta oficial (implementada en la práctica mediante una planilla de cálculo de Google Sheets o cualquier otro medio adecuado).
-* El acta deberá incluir: fecha de la decisión, referencia al caso original del Comité de Disciplina, miembros de la Comisión presentes, decisión adoptada (confirmación, modificación o veto de la sanción propuesta), fundamentos de la decisión y firmas correspondientes.
-* Las actas de resoluciones disciplinarias, tanto del Comité como de la Comisión Directiva, deberán mantenerse actualizadas y disponibles para consulta por parte de los órganos directivos cuando sea necesario.
+* La Comisión Directiva recibirá el dictamen del Comité de Disciplina con toda la documentación del caso y deberá acusar recibo en un plazo de 24 horas.
+* Evaluará la sanción propuesta en un plazo no mayor a 5 días hábiles desde la recepción.
+* La Comisión se reunirá con un quórum mínimo de 2/3 de sus miembros para deliberar sobre cada caso disciplinario.
+* En caso de considerar necesaria una modificación a la sanción propuesta, deberá fundamentar por escrito las razones con un mínimo de 200 palabras que justifiquen técnicamente el cambio.
+* Comunicará su decisión final tanto al Comité de Disciplina como al miembro sancionado en un plazo máximo de 2 días hábiles tras la deliberación.
+* Si transcurridos los 5 días hábiles la Comisión Directiva no se pronuncia, se entenderá que confirma la sanción propuesta por el Comité de Disciplina.
+* La decisión final de la Comisión Directiva será de cumplimiento obligatorio e inmediato desde el momento de su notificación.
+* Toda decisión adoptada por la Comisión Directiva en materia disciplinaria deberá ser registrada en un acta oficial (implementada en la práctica mediante una planilla de cálculo de Google Sheets o cualquier otro medio adecuado) dentro de las 48 horas posteriores a la decisión.
+* El acta deberá incluir: fecha de la decisión, referencia al caso original del Comité de Disciplina, miembros de la Comisión presentes, decisión adoptada (confirmación, modificación o veto de la sanción propuesta), fundamentos detallados de la decisión y firmas correspondientes.
+* Las actas de resoluciones disciplinarias, tanto del Comité como de la Comisión Directiva, deberán mantenerse actualizadas y disponibles para consulta por parte de los órganos directivos cuando sea necesario, conservándose por un período mínimo de 5 años.
 
 **3. Tribunal de Apelación**
 
