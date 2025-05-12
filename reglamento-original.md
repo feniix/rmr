@@ -41,8 +41,6 @@ Formar jugadores con el rugby como herramienta forjadora, para construir entre t
 
 ### **NORMAS GENERALES**
 
-### 
-
 Los miembros del club, sin importar su rol, deberán:
 
 * Respetar las normas de convivencia y la imagen institucional de Ruda Macho Rugby y los lugares a visitar.  
@@ -114,7 +112,7 @@ Cada ex-jugador tiene la responsabilidad de cuidar la imagen del club en cualqui
    *Descripción:* Consumir, portar o distribuir sustancias ilegales durante entrenamientos, partidos o eventos oficiales del club.  
    *Primera infracción:* Advertencia verbal.  
    *Segunda infracción:* Colaborar como aguatero en el siguiente partido.  
-   *Tercera infracción:* Desafectación del club.  
+   *Tercera infracción:* Expulsión del club.  
 2. **Actos de violencia o agresión física**  
    *Descripción:* Participación en peleas o agresiones físicas contra otros miembros del club.  
    *Consecuencia:* Expulsión inmediata del club.  
@@ -125,26 +123,22 @@ Cada ex-jugador tiene la responsabilidad de cuidar la imagen del club en cualqui
    *Tercera infracción:* Suspensión temporal de entrenamientos y partidos.  
 4. **Falta de cuidado de los materiales e instalaciones**  
    *Descripción:* Daño o uso indebido de las instalaciones y materiales del club.  
-   *Consecuencia:* Sanción determinada por el manager y Comité de Disciplina.  
+   *Consecuencia:* Sanción determinada por el Comité de Disciplina.  
 5. **Abandono de actividades sin previo aviso**  
    *Descripción:* Retirarse de entrenamientos o partidos sin informar a los responsables.  
-   *Primera infracción:* Sanción escrita explicando la afectación al club.  
+   *Primera infracción:* Advertencia escrita explicando la afectación al club.  
    *Segunda infracción:* Ser ayudante en los entrenamientos.  
-   *Tercera infracción:* Evaluación para la expulsión del equipo.  
+   *Tercera infracción:* Evaluación para la expulsión del club.  
 6. **Desacato a decisiones arbitrales**  
    *Descripción:* Protestar de forma irrespetuosa contra los árbitros.  
    *Primera infracción:* Advertencia verbal.  
    *Segunda infracción:* Ayudante en entrenamientos.  
-   *Tercera infracción:* Desafectación del equipo.  
+   *Tercera infracción:* Expulsión del club.  
 7. **Desobediencia hacia el entrenador o capitán**  
    *Descripción:* No seguir instrucciones directas durante las actividades del club.  
    *Primera infracción:* Advertencia verbal.  
    *Segunda infracción:* Advertencia escrita y charla con el entrenador o capitán.  
    *Tercera infracción:* Suspensión temporal de entrenamientos y partidos.  
-   
-
----
-
 8. **Introducción de objetos peligrosos**  
    *Descripción:* Llevar o introducir objetos peligrosos en actividades del club.  
    *Primera infracción:* Suspensión inmediata de todas las actividades del club.  
@@ -162,12 +156,14 @@ Cada ex-jugador tiene la responsabilidad de cuidar la imagen del club en cualqui
 11. **Uso inapropiado de tecnología**  
     *Descripción:* Uso de dispositivos electrónicos en momentos inapropiados durante entrenamientos o partidos.  
     *Primera infracción:* Advertencia verbal.
+    *Segunda infracción:* Advertencia escrita.
+    *Tercera infracción:* Suspensión de un partido.
 
 ---
 
 ### **EVALUACIÓN DE SANCIONES**
 
-Cada caso será revisado por el Comité de Disciplina del club. El comité evaluará la gravedad de la falta y determinará la sanción correspondiente, teniendo en cuenta el historial del jugador y el contexto de la infracción.
+Cada caso será revisado por el Comité de Disciplina del club. El Comité evaluará la gravedad de la falta y determinará la sanción correspondiente, teniendo en cuenta el historial del jugador y el contexto de la infracción.
 
 ---
 
@@ -175,27 +171,27 @@ Cada caso será revisado por el Comité de Disciplina del club. El comité evalu
 
 **Objetivo: Asegurar un proceso justo y transparente para que los miembros puedan apelar sanciones que consideren injustas.**
 
-1. **Plazo para Apelar: El miembro sancionado tiene entre 5 y 10 días hábiles desde la notificación de la sanción para presentar la apelación. Fuera de este plazo, no se aceptarán apelaciones, salvo excepciones.**  
+1. **Plazo para Apelar: El miembro sancionado tiene 7 días hábiles desde la notificación de la sanción para presentar la apelación. Fuera de este plazo, no se aceptarán apelaciones, salvo excepciones justificadas.**  
 2. **Notificación de la Sanción: La sanción será comunicada por escrito, especificando:**  
    * **La falta cometida.**  
    * **La consecuencia impuesta.**  
    * **El fundamento de la sanción.**  
    * **El plazo para presentar la apelación.**  
 3. **Procedimiento de Apelación:**  
-   * **Solicitud escrita: El miembro deberá enviar una solicitud por escrito a la Comisión Disciplinaria, explicando los motivos por los cuales considera injusta la sanción.**  
+   * **Solicitud escrita: El miembro deberá enviar una solicitud por escrito al Comité de Disciplina, explicando los motivos por los cuales considera injusta la sanción.**  
    * **Contenido: La solicitud debe incluir:**  
      * **Nombre completo del apelante.**  
      * **Detalles de la sanción.**  
      * **Motivos de la apelación.**  
      * **Cualquier prueba o testimonio relevante.**  
-4. **Evaluación de la Apelación: La Comisión revisará los hechos, pruebas y entrevistará a las partes involucradas. Podrán solicitar más información si es necesario para una decisión justa.**  
+4. **Evaluación de la Apelación: El Comité revisará los hechos, pruebas y entrevistará a las partes involucradas. Podrán solicitar más información si es necesario para una decisión justa.**  
 5. **Audiencia (opcional): Si el apelante lo solicita, se podrá realizar una audiencia formal, respetuosa y objetiva, donde todas las partes involucradas podrán presentar su versión y pruebas.**  
-6. **Decisión Final: Tras evaluar la apelación, la Comisión tomará una decisión:**  
+6. **Decisión Final: Tras evaluar la apelación, el Comité tomará una decisión:**  
    * **Revocar la sanción: Si la sanción fue inapropiada.**  
    * **Reducir la sanción: Si se considera excesiva.**  
    * **Confirmar la sanción: Si se justifica la sanción impuesta.**  
 7. **La decisión será notificada por escrito en un plazo de 5 días hábiles.**  
-8. **Resolución Definitiva: La decisión final de la Comisión Disciplinaria es inapelable dentro del club.**  
+8. **Resolución Definitiva: La decisión final del Comité de Disciplina es inapelable dentro del club.**  
 9. **Confidencialidad: El proceso de apelación será confidencial, y solo se revelarán detalles si las partes lo consienten o si lo exige la ley.**
 
  
